@@ -1,0 +1,1810 @@
+time.struct_time(tm_year=2018, tm_mon=10, tm_mday=7, tm_hour=3, tm_min=35, tm_sec=35, tm_wday=6, tm_yday=280, tm_isdst=1)
+Sequential(
+  (0): Linear(in_features=148817, out_features=1000, bias=True)
+  (1): ReLU()
+  (2): Linear(in_features=1000, out_features=100, bias=True)
+  (3): Linear(in_features=100, out_features=52, bias=True)
+  (4): ReLU()
+)
+TRAINING
+time.struct_time(tm_year=2018, tm_mon=10, tm_mday=7, tm_hour=10, tm_min=3, tm_sec=7, tm_wday=6, tm_yday=280, tm_isdst=1)
+Sequential(
+  (0): Linear(in_features=148817, out_features=1000, bias=True)
+  (1): ReLU()
+  (2): Linear(in_features=1000, out_features=100, bias=True)
+  (3): Linear(in_features=100, out_features=52, bias=True)
+  (4): ReLU()
+)
+TRAINING
+0-0: 0.014736994169652462
+accuracy: 0.9711538461538461, precision: 0, recall: 0
+true positive: 0, true negative: 808, false positive: 0, false negative: 24
+0-1: 0.01096360757946968
+accuracy: 0.9783653846153846, precision: 0, recall: 0
+true positive: 0, true negative: 814, false positive: 0, false negative: 18
+0-2: 0.013762304559350014
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+0-3: 0.009883031249046326
+accuracy: 0.9807692307692307, precision: 0, recall: 0
+true positive: 0, true negative: 816, false positive: 0, false negative: 16
+0-4: 0.012229467742145061
+accuracy: 0.9747596153846154, precision: 0, recall: 0
+true positive: 0, true negative: 811, false positive: 0, false negative: 21
+0-5: 0.013732497580349445
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+0-6: 0.01815403252840042
+accuracy: 0.9639423076923077, precision: 0, recall: 0
+true positive: 0, true negative: 802, false positive: 0, false negative: 30
+0-7: 0.018817715346813202
+accuracy: 0.9639423076923077, precision: 0, recall: 0
+true positive: 0, true negative: 802, false positive: 0, false negative: 30
+0-8: 0.015017533674836159
+accuracy: 0.9699519230769231, precision: 0, recall: 0
+true positive: 0, true negative: 807, false positive: 0, false negative: 25
+0-9: 0.013723521493375301
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+0-10: 0.0114765465259552
+accuracy: 0.9771634615384616, precision: 0, recall: 0
+true positive: 0, true negative: 813, false positive: 0, false negative: 19
+0-11: 0.013773507438600063
+accuracy: 0.9711538461538461, precision: 0, recall: 0
+true positive: 0, true negative: 808, false positive: 0, false negative: 24
+0-12: 0.013724207878112793
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+0-13: 0.015045927837491035
+accuracy: 0.9699519230769231, precision: 0, recall: 0
+true positive: 0, true negative: 807, false positive: 0, false negative: 25
+0-14: 0.012260843068361282
+accuracy: 0.9747596153846154, precision: 0, recall: 0
+true positive: 0, true negative: 811, false positive: 0, false negative: 21
+0-15: 0.012583140283823013
+accuracy: 0.9747596153846154, precision: 0, recall: 0
+true positive: 0, true negative: 811, false positive: 0, false negative: 21
+0-16: 0.010557536967098713
+accuracy: 0.9783653846153846, precision: 0, recall: 0
+true positive: 0, true negative: 814, false positive: 0, false negative: 18
+0-17: 0.01653425209224224
+accuracy: 0.9663461538461539, precision: 0, recall: 0
+true positive: 0, true negative: 804, false positive: 0, false negative: 28
+0-18: 0.015174712054431438
+accuracy: 0.96875, precision: 0, recall: 0
+true positive: 0, true negative: 806, false positive: 0, false negative: 26
+0-19: 0.013019168749451637
+accuracy: 0.9735576923076923, precision: 0, recall: 0
+true positive: 0, true negative: 810, false positive: 0, false negative: 22
+0-20: 0.013710230588912964
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+0-21: 0.012624012306332588
+accuracy: 0.9747596153846154, precision: 0, recall: 0
+true positive: 0, true negative: 811, false positive: 0, false negative: 21
+0-22: 0.013666683807969093
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+0-23: 0.015564537607133389
+accuracy: 0.96875, precision: 0, recall: 0
+true positive: 0, true negative: 806, false positive: 0, false negative: 26
+0-24: 0.014699241146445274
+accuracy: 0.9699519230769231, precision: 0, recall: 0
+true positive: 0, true negative: 807, false positive: 0, false negative: 25
+0-25: 0.013228651136159897
+accuracy: 0.9735576923076923, precision: 0, recall: 0
+true positive: 0, true negative: 810, false positive: 0, false negative: 22
+0-26: 0.014690288342535496
+accuracy: 0.9699519230769231, precision: 0, recall: 0
+true positive: 0, true negative: 807, false positive: 0, false negative: 25
+0-27: 0.021574851125478745
+accuracy: 0.9567307692307693, precision: 0, recall: 0
+true positive: 0, true negative: 796, false positive: 0, false negative: 36
+0-28: 0.01271174754947424
+accuracy: 0.9735576923076923, precision: 0, recall: 0
+true positive: 0, true negative: 810, false positive: 0, false negative: 22
+0-29: 0.01288458239287138
+accuracy: 0.9735576923076923, precision: 0, recall: 0
+true positive: 0, true negative: 810, false positive: 0, false negative: 22
+0-30: 0.020375678315758705
+accuracy: 0.9579326923076923, precision: 0, recall: 0
+true positive: 0, true negative: 797, false positive: 0, false negative: 35
+0-31: 0.024936648085713387
+accuracy: 0.9495192307692307, precision: 0, recall: 0
+true positive: 0, true negative: 790, false positive: 0, false negative: 42
+0-32: 0.015227001160383224
+accuracy: 0.9675480769230769, precision: 0, recall: 0
+true positive: 0, true negative: 805, false positive: 0, false negative: 27
+0-33: 0.012710748240351677
+accuracy: 0.9735576923076923, precision: 0, recall: 0
+true positive: 0, true negative: 810, false positive: 0, false negative: 22
+0-34: 0.016916397958993912
+accuracy: 0.9663461538461539, precision: 0, recall: 0
+true positive: 0, true negative: 804, false positive: 0, false negative: 28
+0-35: 0.021264899522066116
+accuracy: 0.9567307692307693, precision: 0, recall: 0
+true positive: 0, true negative: 796, false positive: 0, false negative: 36
+0-36: 0.015755081549286842
+accuracy: 0.96875, precision: 0, recall: 0
+true positive: 0, true negative: 806, false positive: 0, false negative: 26
+0-37: 0.017433682456612587
+accuracy: 0.9651442307692307, precision: 0, recall: 0
+true positive: 0, true negative: 803, false positive: 0, false negative: 29
+0-38: 0.019049067050218582
+accuracy: 0.9615384615384616, precision: 0, recall: 0
+true positive: 0, true negative: 800, false positive: 0, false negative: 32
+0-39: 0.019588718190789223
+accuracy: 0.9603365384615384, precision: 0, recall: 0
+true positive: 0, true negative: 799, false positive: 0, false negative: 33
+0-40: 0.01668655313551426
+accuracy: 0.9651442307692307, precision: 0, recall: 0
+true positive: 0, true negative: 803, false positive: 0, false negative: 29
+0-41: 0.015750350430607796
+accuracy: 0.96875, precision: 0, recall: 0
+true positive: 0, true negative: 806, false positive: 0, false negative: 26
+0-42: 0.014859982766211033
+accuracy: 0.96875, precision: 0, recall: 0
+true positive: 0, true negative: 806, false positive: 0, false negative: 26
+0-43: 0.022141780704259872
+accuracy: 0.9555288461538461, precision: 0, recall: 0
+true positive: 0, true negative: 795, false positive: 0, false negative: 37
+0-44: 0.013600430451333523
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+0-45: 0.01709148846566677
+accuracy: 0.9639423076923077, precision: 0, recall: 0
+true positive: 0, true negative: 802, false positive: 0, false negative: 30
+0-46: 0.010142078623175621
+accuracy: 0.9783653846153846, precision: 0, recall: 0
+true positive: 0, true negative: 814, false positive: 0, false negative: 18
+0-47: 0.018482668325304985
+accuracy: 0.9615384615384616, precision: 0, recall: 0
+true positive: 0, true negative: 800, false positive: 0, false negative: 32
+0-48: 0.016337800770998
+accuracy: 0.9663461538461539, precision: 0, recall: 0
+true positive: 0, true negative: 804, false positive: 0, false negative: 28
+0-49: 0.019890733063220978
+accuracy: 0.9579326923076923, precision: 0, recall: 0
+true positive: 0, true negative: 797, false positive: 0, false negative: 35
+0-50: 0.016316495835781097
+accuracy: 0.9675480769230769, precision: 0, recall: 0
+true positive: 0, true negative: 805, false positive: 0, false negative: 27
+0-51: 0.017074719071388245
+accuracy: 0.9651442307692307, precision: 0, recall: 0
+true positive: 0, true negative: 803, false positive: 0, false negative: 29
+in epoch: accuracy: 0.9686806582840237, precision: 0, recall: 0
+validation: 0-0: 0.017584482207894325
+accuracy: 0.9639423076923077, precision: 0, recall: 0
+true positive: 0, true negative: 802, false positive: 0, false negative: 30
+validation: 0-1: 0.01711670309305191
+accuracy: 0.9651442307692307, precision: 0, recall: 0
+true positive: 0, true negative: 803, false positive: 0, false negative: 29
+validation: 0-2: 0.020708246156573296
+accuracy: 0.9579326923076923, precision: 0, recall: 0
+true positive: 0, true negative: 797, false positive: 0, false negative: 35
+validation: 0-3: 0.01358832884579897
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+validation: 0-4: 0.019192107021808624
+accuracy: 0.9603365384615384, precision: 0, recall: 0
+true positive: 0, true negative: 799, false positive: 0, false negative: 33
+validation: 0-5: 0.011064673773944378
+accuracy: 0.9783653846153846, precision: 0, recall: 0
+true positive: 0, true negative: 814, false positive: 0, false negative: 18
+in epoch: accuracy: 0.9663461538461539, precision: 0, recall: 0
+1-0: 0.013612527400255203
+accuracy: 0.9711538461538461, precision: 0, recall: 0
+true positive: 0, true negative: 808, false positive: 0, false negative: 24
+1-1: 0.00999499298632145
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.05555555555555555
+true positive: 1, true negative: 814, false positive: 0, false negative: 17
+1-2: 0.013520483858883381
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+1-3: 0.009562162682414055
+accuracy: 0.9807692307692307, precision: 0, recall: 0
+true positive: 0, true negative: 816, false positive: 0, false negative: 16
+1-4: 0.010933564975857735
+accuracy: 0.9747596153846154, precision: 0, recall: 0
+true positive: 0, true negative: 811, false positive: 0, false negative: 21
+1-5: 0.011921944096684456
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+1-6: 0.015978455543518066
+accuracy: 0.9663461538461539, precision: 1.0, recall: 0.06666666666666667
+true positive: 2, true negative: 802, false positive: 0, false negative: 28
+1-7: 0.017824556678533554
+accuracy: 0.9639423076923077, precision: 0, recall: 0
+true positive: 0, true negative: 802, false positive: 0, false negative: 30
+1-8: 0.013798459433019161
+accuracy: 0.9699519230769231, precision: 0, recall: 0
+true positive: 0, true negative: 807, false positive: 0, false negative: 25
+1-9: 0.012496430426836014
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.043478260869565216
+true positive: 1, true negative: 809, false positive: 0, false negative: 22
+1-10: 0.010898535139858723
+accuracy: 0.9771634615384616, precision: 0, recall: 0
+true positive: 0, true negative: 813, false positive: 0, false negative: 19
+1-11: 0.012105458416044712
+accuracy: 0.9711538461538461, precision: 0, recall: 0
+true positive: 0, true negative: 808, false positive: 0, false negative: 24
+1-12: 0.012949744239449501
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+1-13: 0.014482289552688599
+accuracy: 0.9699519230769231, precision: 0, recall: 0
+true positive: 0, true negative: 807, false positive: 0, false negative: 25
+1-14: 0.011411567218601704
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.047619047619047616
+true positive: 1, true negative: 811, false positive: 0, false negative: 20
+1-15: 0.012270268052816391
+accuracy: 0.9747596153846154, precision: 0, recall: 0
+true positive: 0, true negative: 811, false positive: 0, false negative: 21
+1-16: 0.009476313367486
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.05555555555555555
+true positive: 1, true negative: 814, false positive: 0, false negative: 17
+1-17: 0.01566045545041561
+accuracy: 0.9675480769230769, precision: 1.0, recall: 0.03571428571428571
+true positive: 1, true negative: 804, false positive: 0, false negative: 27
+1-18: 0.01349200401455164
+accuracy: 0.9699519230769231, precision: 1.0, recall: 0.038461538461538464
+true positive: 1, true negative: 806, false positive: 0, false negative: 25
+1-19: 0.01229843683540821
+accuracy: 0.9735576923076923, precision: 0, recall: 0
+true positive: 0, true negative: 810, false positive: 0, false negative: 22
+1-20: 0.013034487143158913
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+1-21: 0.011834721080958843
+accuracy: 0.9747596153846154, precision: 0, recall: 0
+true positive: 0, true negative: 811, false positive: 0, false negative: 21
+1-22: 0.012346246279776096
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.043478260869565216
+true positive: 1, true negative: 809, false positive: 0, false negative: 22
+1-23: 0.014432231895625591
+accuracy: 0.96875, precision: 0, recall: 0
+true positive: 0, true negative: 806, false positive: 0, false negative: 26
+1-24: 0.014036708511412144
+accuracy: 0.9711538461538461, precision: 1.0, recall: 0.04
+true positive: 1, true negative: 807, false positive: 0, false negative: 24
+1-25: 0.012587923556566238
+accuracy: 0.9735576923076923, precision: 0, recall: 0
+true positive: 0, true negative: 810, false positive: 0, false negative: 22
+1-26: 0.013129004277288914
+accuracy: 0.9711538461538461, precision: 1.0, recall: 0.04
+true positive: 1, true negative: 807, false positive: 0, false negative: 24
+1-27: 0.021181298419833183
+accuracy: 0.9567307692307693, precision: 0, recall: 0
+true positive: 0, true negative: 796, false positive: 0, false negative: 36
+1-28: 0.011376545764505863
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.09090909090909091
+true positive: 2, true negative: 810, false positive: 0, false negative: 20
+1-29: 0.011864906176924706
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.045454545454545456
+true positive: 1, true negative: 810, false positive: 0, false negative: 21
+1-30: 0.01870935596525669
+accuracy: 0.9603365384615384, precision: 1.0, recall: 0.05714285714285714
+true positive: 2, true negative: 797, false positive: 0, false negative: 33
+1-31: 0.02323954552412033
+accuracy: 0.9495192307692307, precision: 0, recall: 0
+true positive: 0, true negative: 790, false positive: 0, false negative: 42
+1-32: 0.013189440593123436
+accuracy: 0.9675480769230769, precision: 0, recall: 0
+true positive: 0, true negative: 805, false positive: 0, false negative: 27
+1-33: 0.012158417142927647
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.045454545454545456
+true positive: 1, true negative: 810, false positive: 0, false negative: 21
+1-34: 0.015320125967264175
+accuracy: 0.9663461538461539, precision: 0, recall: 0
+true positive: 0, true negative: 804, false positive: 0, false negative: 28
+1-35: 0.019535306841135025
+accuracy: 0.9567307692307693, precision: 0, recall: 0
+true positive: 0, true negative: 796, false positive: 0, false negative: 36
+1-36: 0.014255521818995476
+accuracy: 0.9699519230769231, precision: 1.0, recall: 0.038461538461538464
+true positive: 1, true negative: 806, false positive: 0, false negative: 25
+1-37: 0.015366287901997566
+accuracy: 0.9651442307692307, precision: 0, recall: 0
+true positive: 0, true negative: 803, false positive: 0, false negative: 29
+1-38: 0.018059106543660164
+accuracy: 0.9627403846153846, precision: 1.0, recall: 0.03125
+true positive: 1, true negative: 800, false positive: 0, false negative: 31
+1-39: 0.018135054036974907
+accuracy: 0.9603365384615384, precision: 0, recall: 0
+true positive: 0, true negative: 799, false positive: 0, false negative: 33
+1-40: 0.014677541330456734
+accuracy: 0.9675480769230769, precision: 1.0, recall: 0.06896551724137931
+true positive: 2, true negative: 803, false positive: 0, false negative: 27
+1-41: 0.015119620598852634
+accuracy: 0.96875, precision: 0, recall: 0
+true positive: 0, true negative: 806, false positive: 0, false negative: 26
+1-42: 0.011847790330648422
+accuracy: 0.9711538461538461, precision: 1.0, recall: 0.07692307692307693
+true positive: 2, true negative: 806, false positive: 0, false negative: 24
+1-43: 0.019914546981453896
+accuracy: 0.9567307692307693, precision: 1.0, recall: 0.02702702702702703
+true positive: 1, true negative: 795, false positive: 0, false negative: 36
+1-44: 0.012439029291272163
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+1-45: 0.015024295076727867
+accuracy: 0.9651442307692307, precision: 1.0, recall: 0.03333333333333333
+true positive: 1, true negative: 802, false positive: 0, false negative: 29
+1-46: 0.008837589994072914
+accuracy: 0.9783653846153846, precision: 0, recall: 0
+true positive: 0, true negative: 814, false positive: 0, false negative: 18
+1-47: 0.016334030777215958
+accuracy: 0.9615384615384616, precision: 0, recall: 0
+true positive: 0, true negative: 800, false positive: 0, false negative: 32
+1-48: 0.014351844787597656
+accuracy: 0.9699519230769231, precision: 1.0, recall: 0.10714285714285714
+true positive: 3, true negative: 804, false positive: 0, false negative: 25
+1-49: 0.0174629557877779
+accuracy: 0.9603365384615384, precision: 1.0, recall: 0.05714285714285714
+true positive: 2, true negative: 797, false positive: 0, false negative: 33
+1-50: 0.015436103567481041
+accuracy: 0.96875, precision: 1.0, recall: 0.037037037037037035
+true positive: 1, true negative: 805, false positive: 0, false negative: 26
+1-51: 0.016466740518808365
+accuracy: 0.96875, precision: 1.0, recall: 0.10344827586206896
+true positive: 3, true negative: 803, false positive: 0, false negative: 26
+in epoch: accuracy: 0.9694665310650887, precision: 1.0, recall: 0.025092250922509225
+2-0: 0.01135972235351801
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.125
+true positive: 3, true negative: 808, false positive: 0, false negative: 21
+2-1: 0.009284617379307747
+accuracy: 0.9795673076923077, precision: 0.6666666666666666, recall: 0.1111111111111111
+true positive: 2, true negative: 813, false positive: 1, false negative: 16
+2-2: 0.013238053768873215
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+2-3: 0.006581139285117388
+accuracy: 0.9807692307692307, precision: 0, recall: 0
+true positive: 0, true negative: 816, false positive: 0, false negative: 16
+2-4: 0.009624842554330826
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.09523809523809523
+true positive: 2, true negative: 811, false positive: 0, false negative: 19
+2-5: 0.010348920710384846
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.08695652173913043
+true positive: 2, true negative: 809, false positive: 0, false negative: 21
+2-6: 0.014069481752812862
+accuracy: 0.96875, precision: 1.0, recall: 0.13333333333333333
+true positive: 4, true negative: 802, false positive: 0, false negative: 26
+2-7: 0.017298664897680283
+accuracy: 0.9639423076923077, precision: 0, recall: 0
+true positive: 0, true negative: 802, false positive: 0, false negative: 30
+2-8: 0.012784427963197231
+accuracy: 0.9699519230769231, precision: 0, recall: 0
+true positive: 0, true negative: 807, false positive: 0, false negative: 25
+2-9: 0.01097450777888298
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.13043478260869565
+true positive: 3, true negative: 809, false positive: 0, false negative: 20
+2-10: 0.010439674369990826
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.05263157894736842
+true positive: 1, true negative: 813, false positive: 0, false negative: 18
+2-11: 0.01042786706238985
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.20833333333333334
+true positive: 5, true negative: 808, false positive: 0, false negative: 19
+2-12: 0.012213140726089478
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+2-13: 0.012286374345421791
+accuracy: 0.9711538461538461, precision: 1.0, recall: 0.04
+true positive: 1, true negative: 807, false positive: 0, false negative: 24
+2-14: 0.009687090292572975
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.09523809523809523
+true positive: 2, true negative: 811, false positive: 0, false negative: 19
+2-15: 0.010801604017615318
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.047619047619047616
+true positive: 1, true negative: 811, false positive: 0, false negative: 20
+2-16: 0.008123942650854588
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.16666666666666666
+true positive: 3, true negative: 814, false positive: 0, false negative: 15
+2-17: 0.014119352214038372
+accuracy: 0.9711538461538461, precision: 1.0, recall: 0.14285714285714285
+true positive: 4, true negative: 804, false positive: 0, false negative: 24
+2-18: 0.01170412264764309
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.11538461538461539
+true positive: 3, true negative: 806, false positive: 0, false negative: 23
+2-19: 0.011322246864438057
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.13636363636363635
+true positive: 3, true negative: 810, false positive: 0, false negative: 19
+2-20: 0.012380667962133884
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.08695652173913043
+true positive: 2, true negative: 809, false positive: 0, false negative: 21
+2-21: 0.011151984333992004
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.047619047619047616
+true positive: 1, true negative: 811, false positive: 0, false negative: 20
+2-22: 0.0107975322753191
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.13043478260869565
+true positive: 3, true negative: 809, false positive: 0, false negative: 20
+2-23: 0.012761954218149185
+accuracy: 0.9699519230769231, precision: 1.0, recall: 0.038461538461538464
+true positive: 1, true negative: 806, false positive: 0, false negative: 25
+2-24: 0.013227919116616249
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.12
+true positive: 3, true negative: 807, false positive: 0, false negative: 22
+2-25: 0.011531025171279907
+accuracy: 0.9735576923076923, precision: 0, recall: 0
+true positive: 0, true negative: 810, false positive: 0, false negative: 22
+2-26: 0.010808894410729408
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.24
+true positive: 6, true negative: 807, false positive: 0, false negative: 19
+2-27: 0.019980300217866898
+accuracy: 0.9567307692307693, precision: 0, recall: 0
+true positive: 0, true negative: 796, false positive: 0, false negative: 36
+2-28: 0.010094931349158287
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.13636363636363635
+true positive: 3, true negative: 810, false positive: 0, false negative: 19
+2-29: 0.010202018544077873
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.045454545454545456
+true positive: 1, true negative: 810, false positive: 0, false negative: 21
+2-30: 0.017100511118769646
+accuracy: 0.9627403846153846, precision: 1.0, recall: 0.11428571428571428
+true positive: 4, true negative: 797, false positive: 0, false negative: 31
+2-31: 0.02101254090666771
+accuracy: 0.953125, precision: 1.0, recall: 0.07142857142857142
+true positive: 3, true negative: 790, false positive: 0, false negative: 39
+2-32: 0.011541404761373997
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.14814814814814814
+true positive: 4, true negative: 805, false positive: 0, false negative: 23
+2-33: 0.009050998836755753
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.13636363636363635
+true positive: 3, true negative: 810, false positive: 0, false negative: 19
+2-34: 0.013336055912077427
+accuracy: 0.9663461538461539, precision: 0, recall: 0
+true positive: 0, true negative: 804, false positive: 0, false negative: 28
+2-35: 0.017524544149637222
+accuracy: 0.9615384615384616, precision: 1.0, recall: 0.1111111111111111
+true positive: 4, true negative: 796, false positive: 0, false negative: 32
+2-36: 0.012600976973772049
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.11538461538461539
+true positive: 3, true negative: 806, false positive: 0, false negative: 23
+2-37: 0.013091666623950005
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.20689655172413793
+true positive: 6, true negative: 803, false positive: 0, false negative: 23
+2-38: 0.017622172832489014
+accuracy: 0.9639423076923077, precision: 1.0, recall: 0.0625
+true positive: 2, true negative: 800, false positive: 0, false negative: 30
+2-39: 0.016689399257302284
+accuracy: 0.9627403846153846, precision: 1.0, recall: 0.06060606060606061
+true positive: 2, true negative: 799, false positive: 0, false negative: 31
+2-40: 0.012244585901498795
+accuracy: 0.9699519230769231, precision: 1.0, recall: 0.13793103448275862
+true positive: 4, true negative: 803, false positive: 0, false negative: 25
+2-41: 0.012056846171617508
+accuracy: 0.9699519230769231, precision: 1.0, recall: 0.038461538461538464
+true positive: 1, true negative: 806, false positive: 0, false negative: 25
+2-42: 0.00937106367200613
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.3076923076923077
+true positive: 8, true negative: 806, false positive: 0, false negative: 18
+2-43: 0.016890309751033783
+accuracy: 0.9603365384615384, precision: 1.0, recall: 0.10810810810810811
+true positive: 4, true negative: 795, false positive: 0, false negative: 33
+2-44: 0.010594535619020462
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.17391304347826086
+true positive: 4, true negative: 809, false positive: 0, false negative: 19
+2-45: 0.012302498333156109
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.23333333333333334
+true positive: 7, true negative: 802, false positive: 0, false negative: 23
+2-46: 0.007922551594674587
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.1111111111111111
+true positive: 2, true negative: 814, false positive: 0, false negative: 16
+2-47: 0.01344009768217802
+accuracy: 0.9675480769230769, precision: 1.0, recall: 0.15625
+true positive: 5, true negative: 800, false positive: 0, false negative: 27
+2-48: 0.01263370644301176
+accuracy: 0.9711538461538461, precision: 1.0, recall: 0.14285714285714285
+true positive: 4, true negative: 804, false positive: 0, false negative: 24
+2-49: 0.015163615345954895
+accuracy: 0.9663461538461539, precision: 1.0, recall: 0.2
+true positive: 7, true negative: 797, false positive: 0, false negative: 28
+2-50: 0.014183545485138893
+accuracy: 0.9699519230769231, precision: 1.0, recall: 0.07407407407407407
+true positive: 2, true negative: 805, false positive: 0, false negative: 25
+2-51: 0.015794700011610985
+accuracy: 0.96875, precision: 1.0, recall: 0.10344827586206896
+true positive: 3, true negative: 803, false positive: 0, false negative: 26
+in epoch: accuracy: 0.9719166050295858, precision: 0.9929577464788732, recall: 0.10405904059040591
+3-0: 0.009059937670826912
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.2916666666666667
+true positive: 7, true negative: 808, false positive: 0, false negative: 17
+3-1: 0.008130752481520176
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.2222222222222222
+true positive: 4, true negative: 814, false positive: 0, false negative: 14
+3-2: 0.011926845647394657
+accuracy: 0.9723557692307693, precision: 0, recall: 0
+true positive: 0, true negative: 809, false positive: 0, false negative: 23
+3-3: 0.00549897737801075
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.125
+true positive: 2, true negative: 816, false positive: 0, false negative: 14
+3-4: 0.007957186549901962
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.23809523809523808
+true positive: 5, true negative: 811, false positive: 0, false negative: 16
+3-5: 0.008851725608110428
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.30434782608695654
+true positive: 7, true negative: 809, false positive: 0, false negative: 16
+3-6: 0.011679495684802532
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.26666666666666666
+true positive: 8, true negative: 802, false positive: 0, false negative: 22
+3-7: 0.015334013849496841
+accuracy: 0.9639423076923077, precision: 0, recall: 0
+true positive: 0, true negative: 802, false positive: 0, false negative: 30
+3-8: 0.011536838486790657
+accuracy: 0.9711538461538461, precision: 1.0, recall: 0.04
+true positive: 1, true negative: 807, false positive: 0, false negative: 24
+3-9: 0.009926091879606247
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.21739130434782608
+true positive: 5, true negative: 809, false positive: 0, false negative: 18
+3-10: 0.010038347914814949
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.10526315789473684
+true positive: 2, true negative: 813, false positive: 0, false negative: 17
+3-11: 0.009169543161988258
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.2916666666666667
+true positive: 7, true negative: 808, false positive: 0, false negative: 17
+3-12: 0.011476974003016949
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.043478260869565216
+true positive: 1, true negative: 809, false positive: 0, false negative: 22
+3-13: 0.010725541040301323
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.16
+true positive: 4, true negative: 807, false positive: 0, false negative: 21
+3-14: 0.008267552591860294
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.23809523809523808
+true positive: 5, true negative: 811, false positive: 0, false negative: 16
+3-15: 0.00954850111156702
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.09523809523809523
+true positive: 2, true negative: 811, false positive: 0, false negative: 19
+3-16: 0.006774736102670431
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.16666666666666666
+true positive: 3, true negative: 814, false positive: 0, false negative: 15
+3-17: 0.012847737409174442
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.25
+true positive: 7, true negative: 804, false positive: 0, false negative: 21
+3-18: 0.010151366703212261
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.3076923076923077
+true positive: 8, true negative: 806, false positive: 0, false negative: 18
+3-19: 0.010210156440734863
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.18181818181818182
+true positive: 4, true negative: 810, false positive: 0, false negative: 18
+3-20: 0.011570418253540993
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.13043478260869565
+true positive: 3, true negative: 809, false positive: 0, false negative: 20
+3-21: 0.010175632312893867
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.047619047619047616
+true positive: 1, true negative: 811, false positive: 0, false negative: 20
+3-22: 0.009553934447467327
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.30434782608695654
+true positive: 7, true negative: 809, false positive: 0, false negative: 16
+3-23: 0.011665638536214828
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.15384615384615385
+true positive: 4, true negative: 806, false positive: 0, false negative: 22
+3-24: 0.012625464238226414
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.16
+true positive: 4, true negative: 807, false positive: 0, false negative: 21
+3-25: 0.010835791006684303
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.09090909090909091
+true positive: 2, true negative: 810, false positive: 0, false negative: 20
+3-26: 0.009480489417910576
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.36
+true positive: 9, true negative: 807, false positive: 0, false negative: 16
+3-27: 0.018097491934895515
+accuracy: 0.9603365384615384, precision: 1.0, recall: 0.08333333333333333
+true positive: 3, true negative: 796, false positive: 0, false negative: 33
+3-28: 0.00874432735145092
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.3181818181818182
+true positive: 7, true negative: 810, false positive: 0, false negative: 15
+3-29: 0.007994400337338448
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.2727272727272727
+true positive: 6, true negative: 810, false positive: 0, false negative: 16
+3-30: 0.015730081126093864
+accuracy: 0.9639423076923077, precision: 1.0, recall: 0.14285714285714285
+true positive: 5, true negative: 797, false positive: 0, false negative: 30
+3-31: 0.019198190420866013
+accuracy: 0.9615384615384616, precision: 1.0, recall: 0.23809523809523808
+true positive: 10, true negative: 790, false positive: 0, false negative: 32
+3-32: 0.010377004742622375
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.2962962962962963
+true positive: 8, true negative: 805, false positive: 0, false negative: 19
+3-33: 0.006167339626699686
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.45454545454545453
+true positive: 10, true negative: 810, false positive: 0, false negative: 12
+3-34: 0.01044786348938942
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.25
+true positive: 7, true negative: 804, false positive: 0, false negative: 21
+3-35: 0.014891485683619976
+accuracy: 0.96875, precision: 1.0, recall: 0.2777777777777778
+true positive: 10, true negative: 796, false positive: 0, false negative: 26
+3-36: 0.010146066546440125
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.2692307692307692
+true positive: 7, true negative: 806, false positive: 0, false negative: 19
+3-37: 0.011118507012724876
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.3448275862068966
+true positive: 10, true negative: 803, false positive: 0, false negative: 19
+3-38: 0.016288600862026215
+accuracy: 0.9663461538461539, precision: 1.0, recall: 0.125
+true positive: 4, true negative: 800, false positive: 0, false negative: 28
+3-39: 0.01492745615541935
+accuracy: 0.9663461538461539, precision: 1.0, recall: 0.15151515151515152
+true positive: 5, true negative: 799, false positive: 0, false negative: 28
+3-40: 0.010884659364819527
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.27586206896551724
+true positive: 8, true negative: 803, false positive: 0, false negative: 21
+3-41: 0.010132938623428345
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.3076923076923077
+true positive: 8, true negative: 806, false positive: 0, false negative: 18
+3-42: 0.007302508689463139
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.38461538461538464
+true positive: 10, true negative: 806, false positive: 0, false negative: 16
+3-43: 0.015014727599918842
+accuracy: 0.9675480769230769, precision: 1.0, recall: 0.2702702702702703
+true positive: 10, true negative: 795, false positive: 0, false negative: 27
+3-44: 0.008192821405827999
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.21739130434782608
+true positive: 5, true negative: 809, false positive: 0, false negative: 18
+3-45: 0.009235767647624016
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.43333333333333335
+true positive: 13, true negative: 802, false positive: 0, false negative: 17
+3-46: 0.005596719216555357
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.5555555555555556
+true positive: 10, true negative: 814, false positive: 0, false negative: 8
+3-47: 0.010070262476801872
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.46875
+true positive: 15, true negative: 800, false positive: 0, false negative: 17
+3-48: 0.011503418907523155
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.35714285714285715
+true positive: 10, true negative: 804, false positive: 0, false negative: 18
+3-49: 0.013819507323205471
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.37142857142857144
+true positive: 13, true negative: 797, false positive: 0, false negative: 22
+3-50: 0.013027108274400234
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.25925925925925924
+true positive: 7, true negative: 805, false positive: 0, false negative: 20
+3-51: 0.015508612617850304
+accuracy: 0.96875, precision: 1.0, recall: 0.10344827586206896
+true positive: 3, true negative: 803, false positive: 0, false negative: 26
+in epoch: accuracy: 0.9759846523668639, precision: 1.0, recall: 0.23321033210332104
+4-0: 0.007190112490206957
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.375
+true positive: 9, true negative: 808, false positive: 0, false negative: 15
+4-1: 0.0075550624169409275
+accuracy: 0.984375, precision: 1.0, recall: 0.2777777777777778
+true positive: 5, true negative: 814, false positive: 0, false negative: 13
+4-2: 0.011006795801222324
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.043478260869565216
+true positive: 1, true negative: 809, false positive: 0, false negative: 22
+4-3: 0.0035209353081882
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.4375
+true positive: 7, true negative: 816, false positive: 0, false negative: 9
+4-4: 0.0065559642389416695
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.3333333333333333
+true positive: 7, true negative: 811, false positive: 0, false negative: 14
+4-5: 0.007897604256868362
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.34782608695652173
+true positive: 8, true negative: 809, false positive: 0, false negative: 15
+4-6: 0.01009264774620533
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.4666666666666667
+true positive: 14, true negative: 802, false positive: 0, false negative: 16
+4-7: 0.013080256059765816
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.23333333333333334
+true positive: 7, true negative: 802, false positive: 0, false negative: 23
+4-8: 0.009741267189383507
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.12
+true positive: 3, true negative: 807, false positive: 0, false negative: 22
+4-9: 0.00907039549201727
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.2608695652173913
+true positive: 6, true negative: 809, false positive: 0, false negative: 17
+4-10: 0.009450375102460384
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.21052631578947367
+true positive: 4, true negative: 813, false positive: 0, false negative: 15
+4-11: 0.008436555042862892
+accuracy: 0.984375, precision: 1.0, recall: 0.4583333333333333
+true positive: 11, true negative: 808, false positive: 0, false negative: 13
+4-12: 0.01040796097368002
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.17391304347826086
+true positive: 4, true negative: 809, false positive: 0, false negative: 19
+4-13: 0.009998365305364132
+accuracy: 0.9783653846153846, precision: 0.8888888888888888, recall: 0.32
+true positive: 8, true negative: 806, false positive: 1, false negative: 17
+4-14: 0.007083934266120195
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.23809523809523808
+true positive: 5, true negative: 811, false positive: 0, false negative: 16
+4-15: 0.008584794588387012
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.2857142857142857
+true positive: 6, true negative: 811, false positive: 0, false negative: 15
+4-16: 0.005818780045956373
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.4444444444444444
+true positive: 8, true negative: 814, false positive: 0, false negative: 10
+4-17: 0.012085109017789364
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.2857142857142857
+true positive: 8, true negative: 804, false positive: 0, false negative: 20
+4-18: 0.009302978403866291
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.38461538461538464
+true positive: 10, true negative: 806, false positive: 0, false negative: 16
+4-19: 0.00924708042293787
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.22727272727272727
+true positive: 5, true negative: 810, false positive: 0, false negative: 17
+4-20: 0.010728097520768642
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.13043478260869565
+true positive: 3, true negative: 809, false positive: 0, false negative: 20
+4-21: 0.009222937747836113
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.14285714285714285
+true positive: 3, true negative: 811, false positive: 0, false negative: 18
+4-22: 0.008157438598573208
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.34782608695652173
+true positive: 8, true negative: 809, false positive: 0, false negative: 15
+4-23: 0.010742353275418282
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.34615384615384615
+true positive: 9, true negative: 806, false positive: 0, false negative: 17
+4-24: 0.011891567148268223
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.2
+true positive: 5, true negative: 807, false positive: 0, false negative: 20
+4-25: 0.009447730146348476
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.13636363636363635
+true positive: 3, true negative: 810, false positive: 0, false negative: 19
+4-26: 0.008536001667380333
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.44
+true positive: 11, true negative: 807, false positive: 0, false negative: 14
+4-27: 0.01548236794769764
+accuracy: 0.9639423076923077, precision: 1.0, recall: 0.16666666666666666
+true positive: 6, true negative: 796, false positive: 0, false negative: 30
+4-28: 0.008115562610328197
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.36363636363636365
+true positive: 8, true negative: 810, false positive: 0, false negative: 14
+4-29: 0.007061159238219261
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.45454545454545453
+true positive: 10, true negative: 810, false positive: 0, false negative: 12
+4-30: 0.01426535751670599
+accuracy: 0.96875, precision: 1.0, recall: 0.2571428571428571
+true positive: 9, true negative: 797, false positive: 0, false negative: 26
+4-31: 0.018541887402534485
+accuracy: 0.9615384615384616, precision: 1.0, recall: 0.23809523809523808
+true positive: 10, true negative: 790, false positive: 0, false negative: 32
+4-32: 0.00957128033041954
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.4444444444444444
+true positive: 12, true negative: 805, false positive: 0, false negative: 15
+4-33: 0.004892957396805286
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5454545454545454
+true positive: 12, true negative: 810, false positive: 0, false negative: 10
+4-34: 0.009012398310005665
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.42857142857142855
+true positive: 12, true negative: 804, false positive: 0, false negative: 16
+4-35: 0.013816318474709988
+accuracy: 0.9711538461538461, precision: 1.0, recall: 0.3333333333333333
+true positive: 12, true negative: 796, false positive: 0, false negative: 24
+4-36: 0.00913461484014988
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.38461538461538464
+true positive: 10, true negative: 806, false positive: 0, false negative: 16
+4-37: 0.010348830372095108
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.3793103448275862
+true positive: 11, true negative: 803, false positive: 0, false negative: 18
+4-38: 0.01577211171388626
+accuracy: 0.9663461538461539, precision: 1.0, recall: 0.125
+true positive: 4, true negative: 800, false positive: 0, false negative: 28
+4-39: 0.014129563234746456
+accuracy: 0.9675480769230769, precision: 1.0, recall: 0.18181818181818182
+true positive: 6, true negative: 799, false positive: 0, false negative: 27
+4-40: 0.010147868655622005
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.3103448275862069
+true positive: 9, true negative: 803, false positive: 0, false negative: 20
+4-41: 0.00943296030163765
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.34615384615384615
+true positive: 9, true negative: 806, false positive: 0, false negative: 17
+4-42: 0.006032422184944153
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5769230769230769
+true positive: 15, true negative: 806, false positive: 0, false negative: 11
+4-43: 0.014084899798035622
+accuracy: 0.9675480769230769, precision: 1.0, recall: 0.2702702702702703
+true positive: 10, true negative: 795, false positive: 0, false negative: 27
+4-44: 0.006981611251831055
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.30434782608695654
+true positive: 7, true negative: 809, false positive: 0, false negative: 16
+4-45: 0.007912149652838707
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.5333333333333333
+true positive: 16, true negative: 802, false positive: 0, false negative: 14
+4-46: 0.004482364282011986
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.6666666666666666
+true positive: 12, true negative: 814, false positive: 0, false negative: 6
+4-47: 0.008613010868430138
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.53125
+true positive: 17, true negative: 800, false positive: 0, false negative: 15
+4-48: 0.01050114817917347
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.39285714285714285
+true positive: 11, true negative: 804, false positive: 0, false negative: 17
+4-49: 0.013106326572597027
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.4
+true positive: 14, true negative: 797, false positive: 0, false negative: 21
+4-50: 0.012143248692154884
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.3333333333333333
+true positive: 9, true negative: 805, false positive: 0, false negative: 18
+4-51: 0.015154545195400715
+accuracy: 0.9711538461538461, precision: 1.0, recall: 0.1724137931034483
+true positive: 5, true negative: 803, false positive: 0, false negative: 24
+in epoch: accuracy: 0.9786889792899408, precision: 0.9977011494252873, recall: 0.3202952029520295
+5-0: 0.006289937533438206
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5
+true positive: 12, true negative: 808, false positive: 0, false negative: 12
+5-1: 0.007689781486988068
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.3333333333333333
+true positive: 6, true negative: 814, false positive: 0, false negative: 12
+5-2: 0.010802214965224266
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.17391304347826086
+true positive: 4, true negative: 809, false positive: 0, false negative: 19
+5-3: 0.0030632494017481804
+accuracy: 0.9963942307692307, precision: 1.0, recall: 0.8125
+true positive: 13, true negative: 816, false positive: 0, false negative: 3
+5-4: 0.006180732976645231
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.5714285714285714
+true positive: 12, true negative: 811, false positive: 0, false negative: 9
+5-5: 0.007399474736303091
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.4782608695652174
+true positive: 11, true negative: 809, false positive: 0, false negative: 12
+5-6: 0.008712070994079113
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.5333333333333333
+true positive: 16, true negative: 802, false positive: 0, false negative: 14
+5-7: 0.012704240158200264
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.26666666666666666
+true positive: 8, true negative: 802, false positive: 0, false negative: 22
+5-8: 0.008869459852576256
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.4
+true positive: 10, true negative: 807, false positive: 0, false negative: 15
+5-9: 0.008798006922006607
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.34782608695652173
+true positive: 8, true negative: 809, false positive: 0, false negative: 15
+5-10: 0.008835630491375923
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.21052631578947367
+true positive: 4, true negative: 813, false positive: 0, false negative: 15
+5-11: 0.007723251357674599
+accuracy: 0.984375, precision: 1.0, recall: 0.4583333333333333
+true positive: 11, true negative: 808, false positive: 0, false negative: 13
+5-12: 0.009191085584461689
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.30434782608695654
+true positive: 7, true negative: 809, false positive: 0, false negative: 16
+5-13: 0.009156039915978909
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.36
+true positive: 9, true negative: 807, false positive: 0, false negative: 16
+5-14: 0.005940142087638378
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.5714285714285714
+true positive: 12, true negative: 811, false positive: 0, false negative: 9
+5-15: 0.008203992620110512
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.3333333333333333
+true positive: 7, true negative: 811, false positive: 0, false negative: 14
+5-16: 0.0047011771239340305
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.5555555555555556
+true positive: 10, true negative: 814, false positive: 0, false negative: 8
+5-17: 0.011826170608401299
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.25
+true positive: 7, true negative: 804, false positive: 0, false negative: 21
+5-18: 0.008898877538740635
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.34615384615384615
+true positive: 9, true negative: 806, false positive: 0, false negative: 17
+5-19: 0.008591856807470322
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.3181818181818182
+true positive: 7, true negative: 810, false positive: 0, false negative: 15
+5-20: 0.009889568202197552
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.21739130434782608
+true positive: 5, true negative: 809, false positive: 0, false negative: 18
+5-21: 0.008404889144003391
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.19047619047619047
+true positive: 4, true negative: 811, false positive: 0, false negative: 17
+5-22: 0.007145651150494814
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5217391304347826
+true positive: 12, true negative: 809, false positive: 0, false negative: 11
+5-23: 0.010546926409006119
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.34615384615384615
+true positive: 9, true negative: 806, false positive: 0, false negative: 17
+5-24: 0.011299719102680683
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.24
+true positive: 6, true negative: 807, false positive: 0, false negative: 19
+5-25: 0.008221243508160114
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.3181818181818182
+true positive: 7, true negative: 810, false positive: 0, false negative: 15
+5-26: 0.00792428944259882
+accuracy: 0.984375, precision: 1.0, recall: 0.48
+true positive: 12, true negative: 807, false positive: 0, false negative: 13
+5-27: 0.013945261016488075
+accuracy: 0.96875, precision: 1.0, recall: 0.2777777777777778
+true positive: 10, true negative: 796, false positive: 0, false negative: 26
+5-28: 0.00755821680650115
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.36363636363636365
+true positive: 8, true negative: 810, false positive: 0, false negative: 14
+5-29: 0.006409083027392626
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5454545454545454
+true positive: 12, true negative: 810, false positive: 0, false negative: 10
+5-30: 0.012919347733259201
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.37142857142857144
+true positive: 13, true negative: 797, false positive: 0, false negative: 22
+5-31: 0.017847953364253044
+accuracy: 0.9639423076923077, precision: 1.0, recall: 0.2857142857142857
+true positive: 12, true negative: 790, false positive: 0, false negative: 30
+5-32: 0.008694897405803204
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.48148148148148145
+true positive: 13, true negative: 805, false positive: 0, false negative: 14
+5-33: 0.0045236521400511265
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.6363636363636364
+true positive: 14, true negative: 810, false positive: 0, false negative: 8
+5-34: 0.008917154744267464
+accuracy: 0.9819711538461539, precision: 0.9333333333333333, recall: 0.5
+true positive: 14, true negative: 803, false positive: 1, false negative: 14
+5-35: 0.013477269560098648
+accuracy: 0.9711538461538461, precision: 1.0, recall: 0.3333333333333333
+true positive: 12, true negative: 796, false positive: 0, false negative: 24
+5-36: 0.008966220542788506
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.38461538461538464
+true positive: 10, true negative: 806, false positive: 0, false negative: 16
+5-37: 0.010015921667218208
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.41379310344827586
+true positive: 12, true negative: 803, false positive: 0, false negative: 17
+5-38: 0.015414567664265633
+accuracy: 0.9675480769230769, precision: 1.0, recall: 0.15625
+true positive: 5, true negative: 800, false positive: 0, false negative: 27
+5-39: 0.01340646855533123
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.3333333333333333
+true positive: 11, true negative: 799, false positive: 0, false negative: 22
+5-40: 0.009678776375949383
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.4482758620689655
+true positive: 13, true negative: 803, false positive: 0, false negative: 16
+5-41: 0.009215201251208782
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.46153846153846156
+true positive: 12, true negative: 806, false positive: 0, false negative: 14
+5-42: 0.005557107273489237
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.6153846153846154
+true positive: 16, true negative: 806, false positive: 0, false negative: 10
+5-43: 0.012632016092538834
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.3783783783783784
+true positive: 14, true negative: 795, false positive: 0, false negative: 23
+5-44: 0.005787209141999483
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.4782608695652174
+true positive: 11, true negative: 809, false positive: 0, false negative: 12
+5-45: 0.0075316582806408405
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.6
+true positive: 18, true negative: 802, false positive: 0, false negative: 12
+5-46: 0.004001068416982889
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.6666666666666666
+true positive: 12, true negative: 814, false positive: 0, false negative: 6
+5-47: 0.007708261255174875
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.5625
+true positive: 18, true negative: 800, false positive: 0, false negative: 14
+5-48: 0.009958758018910885
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.39285714285714285
+true positive: 11, true negative: 804, false positive: 0, false negative: 17
+5-49: 0.013181026093661785
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.42857142857142855
+true positive: 15, true negative: 797, false positive: 0, false negative: 20
+5-50: 0.01225481741130352
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.3333333333333333
+true positive: 9, true negative: 805, false positive: 0, false negative: 18
+5-51: 0.014602456241846085
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.20689655172413793
+true positive: 6, true negative: 803, false positive: 0, false negative: 23
+in epoch: accuracy: 0.9811159393491125, precision: 0.9981481481481481, recall: 0.3977859778597786
+6-0: 0.005059381946921349
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.625
+true positive: 15, true negative: 808, false positive: 0, false negative: 9
+6-1: 0.007059171330183744
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.3888888888888889
+true positive: 7, true negative: 814, false positive: 0, false negative: 11
+6-2: 0.009023628197610378
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.34782608695652173
+true positive: 8, true negative: 809, false positive: 0, false negative: 15
+6-3: 0.0020623295567929745
+accuracy: 0.9987980769230769, precision: 1.0, recall: 0.9375
+true positive: 15, true negative: 816, false positive: 0, false negative: 1
+6-4: 0.005462342873215675
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.6190476190476191
+true positive: 13, true negative: 811, false positive: 0, false negative: 8
+6-5: 0.006681332364678383
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5217391304347826
+true positive: 12, true negative: 809, false positive: 0, false negative: 11
+6-6: 0.00790958758443594
+accuracy: 0.984375, precision: 1.0, recall: 0.5666666666666667
+true positive: 17, true negative: 802, false positive: 0, false negative: 13
+6-7: 0.012004092335700989
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.3333333333333333
+true positive: 10, true negative: 802, false positive: 0, false negative: 20
+6-8: 0.008164347149431705
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.4
+true positive: 10, true negative: 807, false positive: 0, false negative: 15
+6-9: 0.008539970964193344
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.391304347826087
+true positive: 9, true negative: 809, false positive: 0, false negative: 14
+6-10: 0.008347995579242706
+accuracy: 0.984375, precision: 1.0, recall: 0.3157894736842105
+true positive: 6, true negative: 813, false positive: 0, false negative: 13
+6-11: 0.007232953328639269
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5
+true positive: 12, true negative: 808, false positive: 0, false negative: 12
+6-12: 0.008985416032373905
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.391304347826087
+true positive: 9, true negative: 809, false positive: 0, false negative: 14
+6-13: 0.008118197321891785
+accuracy: 0.984375, precision: 1.0, recall: 0.48
+true positive: 12, true negative: 807, false positive: 0, false negative: 13
+6-14: 0.004634031094610691
+accuracy: 0.9915865384615384, precision: 1.0, recall: 0.6666666666666666
+true positive: 14, true negative: 811, false positive: 0, false negative: 7
+6-15: 0.007311779074370861
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.42857142857142855
+true positive: 9, true negative: 811, false positive: 0, false negative: 12
+6-16: 0.004212810192257166
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.6666666666666666
+true positive: 12, true negative: 814, false positive: 0, false negative: 6
+6-17: 0.011028053238987923
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.32142857142857145
+true positive: 9, true negative: 804, false positive: 0, false negative: 19
+6-18: 0.008075675927102566
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.4230769230769231
+true positive: 11, true negative: 806, false positive: 0, false negative: 15
+6-19: 0.007875346578657627
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.36363636363636365
+true positive: 8, true negative: 810, false positive: 0, false negative: 14
+6-20: 0.009270923212170601
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.34782608695652173
+true positive: 8, true negative: 809, false positive: 0, false negative: 15
+6-21: 0.007510761264711618
+accuracy: 0.984375, precision: 1.0, recall: 0.38095238095238093
+true positive: 8, true negative: 811, false positive: 0, false negative: 13
+6-22: 0.006763983052223921
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5652173913043478
+true positive: 13, true negative: 809, false positive: 0, false negative: 10
+6-23: 0.010104781948029995
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.38461538461538464
+true positive: 10, true negative: 806, false positive: 0, false negative: 16
+6-24: 0.010950367897748947
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.28
+true positive: 7, true negative: 807, false positive: 0, false negative: 18
+6-25: 0.007675540167838335
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.36363636363636365
+true positive: 8, true negative: 810, false positive: 0, false negative: 14
+6-26: 0.007428106386214495
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.52
+true positive: 13, true negative: 807, false positive: 0, false negative: 12
+6-27: 0.012873404659330845
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.3888888888888889
+true positive: 14, true negative: 796, false positive: 0, false negative: 22
+6-28: 0.007546248380094767
+accuracy: 0.984375, precision: 1.0, recall: 0.4090909090909091
+true positive: 9, true negative: 810, false positive: 0, false negative: 13
+6-29: 0.006306988187134266
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5454545454545454
+true positive: 12, true negative: 810, false positive: 0, false negative: 10
+6-30: 0.012167067267000675
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.4
+true positive: 14, true negative: 797, false positive: 0, false negative: 21
+6-31: 0.01715809479355812
+accuracy: 0.9651442307692307, precision: 1.0, recall: 0.30952380952380953
+true positive: 13, true negative: 790, false positive: 0, false negative: 29
+6-32: 0.008042401634156704
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5555555555555556
+true positive: 15, true negative: 805, false positive: 0, false negative: 12
+6-33: 0.0037607948761433363
+accuracy: 0.9915865384615384, precision: 1.0, recall: 0.6818181818181818
+true positive: 15, true negative: 810, false positive: 0, false negative: 7
+6-34: 0.007556812837719917
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.5
+true positive: 14, true negative: 804, false positive: 0, false negative: 14
+6-35: 0.012286669574677944
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.4444444444444444
+true positive: 16, true negative: 796, false positive: 0, false negative: 20
+6-36: 0.0087125888094306
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.4230769230769231
+true positive: 11, true negative: 806, false positive: 0, false negative: 15
+6-37: 0.009968873113393784
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.41379310344827586
+true positive: 12, true negative: 803, false positive: 0, false negative: 17
+6-38: 0.014974241144955158
+accuracy: 0.9699519230769231, precision: 1.0, recall: 0.21875
+true positive: 7, true negative: 800, false positive: 0, false negative: 25
+6-39: 0.012750977650284767
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.3333333333333333
+true positive: 11, true negative: 799, false positive: 0, false negative: 22
+6-40: 0.009062409400939941
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.4482758620689655
+true positive: 13, true negative: 803, false positive: 0, false negative: 16
+6-41: 0.008476601913571358
+accuracy: 0.984375, precision: 1.0, recall: 0.5
+true positive: 13, true negative: 806, false positive: 0, false negative: 13
+6-42: 0.0048902384005486965
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.6923076923076923
+true positive: 18, true negative: 806, false positive: 0, false negative: 8
+6-43: 0.011656191200017929
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.5135135135135135
+true positive: 19, true negative: 795, false positive: 0, false negative: 18
+6-44: 0.004796057939529419
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.7391304347826086
+true positive: 17, true negative: 809, false positive: 0, false negative: 6
+6-45: 0.006979288533329964
+accuracy: 0.9855769230769231, precision: 0.95, recall: 0.6333333333333333
+true positive: 19, true negative: 801, false positive: 1, false negative: 11
+6-46: 0.003816224867478013
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.6666666666666666
+true positive: 12, true negative: 814, false positive: 0, false negative: 6
+6-47: 0.007052212953567505
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.6875
+true positive: 22, true negative: 800, false positive: 0, false negative: 10
+6-48: 0.009889377281069756
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.42857142857142855
+true positive: 12, true negative: 804, false positive: 0, false negative: 16
+6-49: 0.013421089388430119
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.34285714285714286
+true positive: 12, true negative: 797, false positive: 0, false negative: 23
+6-50: 0.011663124896585941
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.25925925925925924
+true positive: 7, true negative: 805, false positive: 0, false negative: 20
+6-51: 0.014097637496888638
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.20689655172413793
+true positive: 6, true negative: 803, false positive: 0, false negative: 23
+in epoch: accuracy: 0.9829419378698225, precision: 0.9983844911147012, recall: 0.45608856088560884
+7-0: 0.004150403663516045
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.7916666666666666
+true positive: 19, true negative: 808, false positive: 0, false negative: 5
+7-1: 0.006967785302549601
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.3888888888888889
+true positive: 7, true negative: 814, false positive: 0, false negative: 11
+7-2: 0.008398445323109627
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.391304347826087
+true positive: 9, true negative: 809, false positive: 0, false negative: 14
+7-3: 0.002085539046674967
+accuracy: 0.9987980769230769, precision: 1.0, recall: 0.9375
+true positive: 15, true negative: 816, false positive: 0, false negative: 1
+7-4: 0.005337405484169722
+accuracy: 0.9915865384615384, precision: 1.0, recall: 0.6666666666666666
+true positive: 14, true negative: 811, false positive: 0, false negative: 7
+7-5: 0.006014272104948759
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5652173913043478
+true positive: 13, true negative: 809, false positive: 0, false negative: 10
+7-6: 0.007370648439973593
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.6333333333333333
+true positive: 19, true negative: 802, false positive: 0, false negative: 11
+7-7: 0.010879384353756905
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.4
+true positive: 12, true negative: 802, false positive: 0, false negative: 18
+7-8: 0.00709707522764802
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.56
+true positive: 14, true negative: 807, false positive: 0, false negative: 11
+7-9: 0.008409824222326279
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.391304347826087
+true positive: 9, true negative: 809, false positive: 0, false negative: 14
+7-10: 0.007929355837404728
+accuracy: 0.984375, precision: 1.0, recall: 0.3157894736842105
+true positive: 6, true negative: 813, false positive: 0, false negative: 13
+7-11: 0.006504983175545931
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5
+true positive: 12, true negative: 808, false positive: 0, false negative: 12
+7-12: 0.008483203127980232
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.34782608695652173
+true positive: 8, true negative: 809, false positive: 0, false negative: 15
+7-13: 0.007065735757350922
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.56
+true positive: 14, true negative: 807, false positive: 0, false negative: 11
+7-14: 0.004506472032517195
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.5714285714285714
+true positive: 12, true negative: 811, false positive: 0, false negative: 9
+7-15: 0.007134641986340284
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.47619047619047616
+true positive: 10, true negative: 811, false positive: 0, false negative: 11
+7-16: 0.003926257602870464
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.6666666666666666
+true positive: 12, true negative: 814, false positive: 0, false negative: 6
+7-17: 0.011417780071496964
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.35714285714285715
+true positive: 10, true negative: 804, false positive: 0, false negative: 18
+7-18: 0.008201071061193943
+accuracy: 0.984375, precision: 1.0, recall: 0.5
+true positive: 13, true negative: 806, false positive: 0, false negative: 13
+7-19: 0.007588821928948164
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.45454545454545453
+true positive: 10, true negative: 810, false positive: 0, false negative: 12
+7-20: 0.009038681164383888
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.30434782608695654
+true positive: 7, true negative: 809, false positive: 0, false negative: 16
+7-21: 0.007269782945513725
+accuracy: 0.984375, precision: 1.0, recall: 0.38095238095238093
+true positive: 8, true negative: 811, false positive: 0, false negative: 13
+7-22: 0.0067795319482684135
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5217391304347826
+true positive: 12, true negative: 809, false positive: 0, false negative: 11
+7-23: 0.009820436127483845
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.38461538461538464
+true positive: 10, true negative: 806, false positive: 0, false negative: 16
+7-24: 0.010813468135893345
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.28
+true positive: 7, true negative: 807, false positive: 0, false negative: 18
+7-25: 0.006885297130793333
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.45454545454545453
+true positive: 10, true negative: 810, false positive: 0, false negative: 12
+7-26: 0.007740628905594349
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.52
+true positive: 13, true negative: 807, false positive: 0, false negative: 12
+7-27: 0.011759696528315544
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.4722222222222222
+true positive: 17, true negative: 796, false positive: 0, false negative: 19
+7-28: 0.00727884192019701
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.45454545454545453
+true positive: 10, true negative: 810, false positive: 0, false negative: 12
+7-29: 0.005917503498494625
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5454545454545454
+true positive: 12, true negative: 810, false positive: 0, false negative: 10
+7-30: 0.011903421953320503
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.4
+true positive: 14, true negative: 797, false positive: 0, false negative: 21
+7-31: 0.016657408326864243
+accuracy: 0.9663461538461539, precision: 1.0, recall: 0.3333333333333333
+true positive: 14, true negative: 790, false positive: 0, false negative: 28
+7-32: 0.007751012686640024
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5555555555555556
+true positive: 15, true negative: 805, false positive: 0, false negative: 12
+7-33: 0.0035503623075783253
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.7272727272727273
+true positive: 16, true negative: 810, false positive: 0, false negative: 6
+7-34: 0.007029006723314524
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.6071428571428571
+true positive: 17, true negative: 804, false positive: 0, false negative: 11
+7-35: 0.011179845780134201
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.4444444444444444
+true positive: 16, true negative: 796, false positive: 0, false negative: 20
+7-36: 0.007999062538146973
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.4230769230769231
+true positive: 11, true negative: 806, false positive: 0, false negative: 15
+7-37: 0.008598240092396736
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.5172413793103449
+true positive: 15, true negative: 803, false positive: 0, false negative: 14
+7-38: 0.013880014419555664
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.28125
+true positive: 9, true negative: 800, false positive: 0, false negative: 23
+7-39: 0.011770346201956272
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.3939393939393939
+true positive: 13, true negative: 799, false positive: 0, false negative: 20
+7-40: 0.007945263758301735
+accuracy: 0.984375, precision: 1.0, recall: 0.5517241379310345
+true positive: 16, true negative: 803, false positive: 0, false negative: 13
+7-41: 0.007743698079138994
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5384615384615384
+true positive: 14, true negative: 806, false positive: 0, false negative: 12
+7-42: 0.005038249306380749
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.6923076923076923
+true positive: 18, true negative: 806, false positive: 0, false negative: 8
+7-43: 0.011002860032022
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.5135135135135135
+true positive: 19, true negative: 795, false positive: 0, false negative: 18
+7-44: 0.004414636176079512
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.7391304347826086
+true positive: 17, true negative: 809, false positive: 0, false negative: 6
+7-45: 0.006620860658586025
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.6666666666666666
+true positive: 20, true negative: 802, false positive: 0, false negative: 10
+7-46: 0.003937817644327879
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.6666666666666666
+true positive: 12, true negative: 814, false positive: 0, false negative: 6
+7-47: 0.0072609419003129005
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.6875
+true positive: 22, true negative: 800, false positive: 0, false negative: 10
+7-48: 0.009884165599942207
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.42857142857142855
+true positive: 12, true negative: 804, false positive: 0, false negative: 16
+7-49: 0.01267971284687519
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.42857142857142855
+true positive: 15, true negative: 797, false positive: 0, false negative: 20
+7-50: 0.0113371005281806
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.3333333333333333
+true positive: 9, true negative: 805, false positive: 0, false negative: 18
+7-51: 0.013765751384198666
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.20689655172413793
+true positive: 6, true negative: 803, false positive: 0, false negative: 23
+in epoch: accuracy: 0.9840282914201184, precision: 1.0, recall: 0.4900369003690037
+8-0: 0.0036987042985856533
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.7916666666666666
+true positive: 19, true negative: 808, false positive: 0, false negative: 5
+8-1: 0.006926312576979399
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.3888888888888889
+true positive: 7, true negative: 814, false positive: 0, false negative: 11
+8-2: 0.007790703792124987
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.4782608695652174
+true positive: 11, true negative: 809, false positive: 0, false negative: 12
+8-3: 0.00130911183077842
+accuracy: 0.9987980769230769, precision: 1.0, recall: 0.9375
+true positive: 15, true negative: 816, false positive: 0, false negative: 1
+8-4: 0.004571074619889259
+accuracy: 0.9915865384615384, precision: 1.0, recall: 0.6666666666666666
+true positive: 14, true negative: 811, false positive: 0, false negative: 7
+8-5: 0.005511335097253323
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.6086956521739131
+true positive: 14, true negative: 809, false positive: 0, false negative: 9
+8-6: 0.007732384838163853
+accuracy: 0.984375, precision: 1.0, recall: 0.5666666666666667
+true positive: 17, true negative: 802, false positive: 0, false negative: 13
+8-7: 0.0113984989002347
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.36666666666666664
+true positive: 11, true negative: 802, false positive: 0, false negative: 19
+8-8: 0.006311431061476469
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.6
+true positive: 15, true negative: 807, false positive: 0, false negative: 10
+8-9: 0.007761076558381319
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.4782608695652174
+true positive: 11, true negative: 809, false positive: 0, false negative: 12
+8-10: 0.007894417271018028
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.3684210526315789
+true positive: 7, true negative: 813, false positive: 0, false negative: 12
+8-11: 0.006152610294520855
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5833333333333334
+true positive: 14, true negative: 808, false positive: 0, false negative: 10
+8-12: 0.007773468270897865
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.34782608695652173
+true positive: 8, true negative: 809, false positive: 0, false negative: 15
+8-13: 0.006638360675424337
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.56
+true positive: 14, true negative: 807, false positive: 0, false negative: 11
+8-14: 0.003784020897001028
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.7142857142857143
+true positive: 15, true negative: 811, false positive: 0, false negative: 6
+8-15: 0.006698314566165209
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.47619047619047616
+true positive: 10, true negative: 811, false positive: 0, false negative: 11
+8-16: 0.003470983821898699
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.7222222222222222
+true positive: 13, true negative: 814, false positive: 0, false negative: 5
+8-17: 0.010466191917657852
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.39285714285714285
+true positive: 11, true negative: 804, false positive: 0, false negative: 17
+8-18: 0.007885470986366272
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.46153846153846156
+true positive: 12, true negative: 806, false positive: 0, false negative: 14
+8-19: 0.007254438940435648
+accuracy: 0.984375, precision: 1.0, recall: 0.4090909090909091
+true positive: 9, true negative: 810, false positive: 0, false negative: 13
+8-20: 0.00812582764774561
+accuracy: 0.984375, precision: 1.0, recall: 0.43478260869565216
+true positive: 10, true negative: 809, false positive: 0, false negative: 13
+8-21: 0.0069012888707220554
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.47619047619047616
+true positive: 10, true negative: 811, false positive: 0, false negative: 11
+8-22: 0.00681776087731123
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5217391304347826
+true positive: 12, true negative: 809, false positive: 0, false negative: 11
+8-23: 0.009370665065944195
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.4230769230769231
+true positive: 11, true negative: 806, false positive: 0, false negative: 15
+8-24: 0.01081821322441101
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.2
+true positive: 5, true negative: 807, false positive: 0, false negative: 20
+8-25: 0.006602169945836067
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.45454545454545453
+true positive: 10, true negative: 810, false positive: 0, false negative: 12
+8-26: 0.008019765838980675
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.44
+true positive: 11, true negative: 807, false positive: 0, false negative: 14
+8-27: 0.011623650789260864
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.5
+true positive: 18, true negative: 796, false positive: 0, false negative: 18
+8-28: 0.007573912851512432
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.36363636363636365
+true positive: 8, true negative: 810, false positive: 0, false negative: 14
+8-29: 0.00610346021130681
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5454545454545454
+true positive: 12, true negative: 810, false positive: 0, false negative: 10
+8-30: 0.011734203435480595
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.42857142857142855
+true positive: 15, true negative: 797, false positive: 0, false negative: 20
+8-31: 0.016240788623690605
+accuracy: 0.9675480769230769, precision: 0.9411764705882353, recall: 0.38095238095238093
+true positive: 16, true negative: 789, false positive: 1, false negative: 26
+8-32: 0.00753189530223608
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5555555555555556
+true positive: 15, true negative: 805, false positive: 0, false negative: 12
+8-33: 0.0027581911999732256
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.7727272727272727
+true positive: 17, true negative: 810, false positive: 0, false negative: 5
+8-34: 0.005251006223261356
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.7142857142857143
+true positive: 20, true negative: 804, false positive: 0, false negative: 8
+8-35: 0.010672234930098057
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.5277777777777778
+true positive: 19, true negative: 796, false positive: 0, false negative: 17
+8-36: 0.007310621440410614
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5384615384615384
+true positive: 14, true negative: 806, false positive: 0, false negative: 12
+8-37: 0.008625914342701435
+accuracy: 0.9831730769230769, precision: 0.9411764705882353, recall: 0.5517241379310345
+true positive: 16, true negative: 802, false positive: 1, false negative: 13
+8-38: 0.013761286623775959
+accuracy: 0.9723557692307693, precision: 1.0, recall: 0.28125
+true positive: 9, true negative: 800, false positive: 0, false negative: 23
+8-39: 0.011467678472399712
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.42424242424242425
+true positive: 14, true negative: 799, false positive: 0, false negative: 19
+8-40: 0.0073345429264009
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5862068965517241
+true positive: 17, true negative: 803, false positive: 0, false negative: 12
+8-41: 0.0072715128771960735
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5769230769230769
+true positive: 15, true negative: 806, false positive: 0, false negative: 11
+8-42: 0.004020601511001587
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.7692307692307693
+true positive: 20, true negative: 806, false positive: 0, false negative: 6
+8-43: 0.010733759962022305
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.5135135135135135
+true positive: 19, true negative: 795, false positive: 0, false negative: 18
+8-44: 0.003852419089525938
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.7391304347826086
+true positive: 17, true negative: 809, false positive: 0, false negative: 6
+8-45: 0.005882522091269493
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.7333333333333333
+true positive: 22, true negative: 802, false positive: 0, false negative: 8
+8-46: 0.0035804668441414833
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.7222222222222222
+true positive: 13, true negative: 814, false positive: 0, false negative: 5
+8-47: 0.007137647829949856
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.6875
+true positive: 22, true negative: 800, false positive: 0, false negative: 10
+8-48: 0.00973118469119072
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.42857142857142855
+true positive: 12, true negative: 804, false positive: 0, false negative: 16
+8-49: 0.01112099178135395
+accuracy: 0.9771634615384616, precision: 1.0, recall: 0.45714285714285713
+true positive: 16, true negative: 797, false positive: 0, false negative: 19
+8-50: 0.010784232057631016
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.37037037037037035
+true positive: 10, true negative: 805, false positive: 0, false negative: 17
+8-51: 0.01289951242506504
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.27586206896551724
+true positive: 8, true negative: 803, false positive: 0, false negative: 21
+in epoch: accuracy: 0.9848141642011834, precision: 0.9971509971509972, recall: 0.5166051660516605
+9-0: 0.003340743714943528
+accuracy: 0.9951923076923077, precision: 1.0, recall: 0.8333333333333334
+true positive: 20, true negative: 808, false positive: 0, false negative: 4
+9-1: 0.0069546569138765335
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.3888888888888889
+true positive: 7, true negative: 814, false positive: 0, false negative: 11
+9-2: 0.0078038061037659645
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.4782608695652174
+true positive: 11, true negative: 809, false positive: 0, false negative: 12
+9-3: 0.0009825576562434435
+accuracy: 0.9987980769230769, precision: 1.0, recall: 0.9375
+true positive: 15, true negative: 816, false positive: 0, false negative: 1
+9-4: 0.004475953057408333
+accuracy: 0.9915865384615384, precision: 1.0, recall: 0.6666666666666666
+true positive: 14, true negative: 811, false positive: 0, false negative: 7
+9-5: 0.005455307196825743
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.6086956521739131
+true positive: 14, true negative: 809, false positive: 0, false negative: 9
+9-6: 0.007346853613853455
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.6333333333333333
+true positive: 19, true negative: 802, false positive: 0, false negative: 11
+9-7: 0.01055767573416233
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.43333333333333335
+true positive: 13, true negative: 802, false positive: 0, false negative: 17
+9-8: 0.005358367692679167
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.64
+true positive: 16, true negative: 807, false positive: 0, false negative: 9
+9-9: 0.007471348624676466
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.4782608695652174
+true positive: 11, true negative: 809, false positive: 0, false negative: 12
+9-10: 0.0073369466699659824
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.3684210526315789
+true positive: 7, true negative: 813, false positive: 0, false negative: 12
+9-11: 0.0052580516785383224
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.625
+true positive: 15, true negative: 808, false positive: 0, false negative: 9
+9-12: 0.006769091356545687
+accuracy: 0.984375, precision: 1.0, recall: 0.43478260869565216
+true positive: 10, true negative: 809, false positive: 0, false negative: 13
+9-13: 0.007102529518306255
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.52
+true positive: 13, true negative: 807, false positive: 0, false negative: 12
+9-14: 0.004067775793373585
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.7142857142857143
+true positive: 15, true negative: 811, false positive: 0, false negative: 6
+9-15: 0.007094952743500471
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5238095238095238
+true positive: 11, true negative: 811, false positive: 0, false negative: 10
+9-16: 0.0036301889922469854
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.7222222222222222
+true positive: 13, true negative: 814, false positive: 0, false negative: 5
+9-17: 0.01069602556526661
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.35714285714285715
+true positive: 10, true negative: 804, false positive: 0, false negative: 18
+9-18: 0.007621613331139088
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5384615384615384
+true positive: 14, true negative: 806, false positive: 0, false negative: 12
+9-19: 0.006628270260989666
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5
+true positive: 11, true negative: 810, false positive: 0, false negative: 11
+9-20: 0.0075742327608168125
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.4782608695652174
+true positive: 11, true negative: 809, false positive: 0, false negative: 12
+9-21: 0.006437500938773155
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5238095238095238
+true positive: 11, true negative: 811, false positive: 0, false negative: 10
+9-22: 0.006363300606608391
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5652173913043478
+true positive: 13, true negative: 809, false positive: 0, false negative: 10
+9-23: 0.008817161433398724
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.4230769230769231
+true positive: 11, true negative: 806, false positive: 0, false negative: 15
+9-24: 0.010189288295805454
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.32
+true positive: 8, true negative: 807, false positive: 0, false negative: 17
+9-25: 0.006226047407835722
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5
+true positive: 11, true negative: 810, false positive: 0, false negative: 11
+9-26: 0.007595354691147804
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.52
+true positive: 13, true negative: 807, false positive: 0, false negative: 12
+9-27: 0.010884711518883705
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.5277777777777778
+true positive: 19, true negative: 796, false positive: 0, false negative: 17
+9-28: 0.007076851092278957
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.45454545454545453
+true positive: 10, true negative: 810, false positive: 0, false negative: 12
+9-29: 0.006172741763293743
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5454545454545454
+true positive: 12, true negative: 810, false positive: 0, false negative: 10
+9-30: 0.010826155543327332
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.5142857142857142
+true positive: 18, true negative: 797, false positive: 0, false negative: 17
+9-31: 0.016071809455752373
+accuracy: 0.9675480769230769, precision: 1.0, recall: 0.35714285714285715
+true positive: 15, true negative: 790, false positive: 0, false negative: 27
+9-32: 0.007712861523032188
+accuracy: 0.984375, precision: 1.0, recall: 0.5185185185185185
+true positive: 14, true negative: 805, false positive: 0, false negative: 13
+9-33: 0.0028805804904550314
+accuracy: 0.9915865384615384, precision: 1.0, recall: 0.6818181818181818
+true positive: 15, true negative: 810, false positive: 0, false negative: 7
+9-34: 0.004919989965856075
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.6785714285714286
+true positive: 19, true negative: 804, false positive: 0, false negative: 9
+9-35: 0.01077955961227417
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.4444444444444444
+true positive: 16, true negative: 796, false positive: 0, false negative: 20
+9-36: 0.006964308209717274
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.46153846153846156
+true positive: 12, true negative: 806, false positive: 0, false negative: 14
+9-37: 0.008484221063554287
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.4827586206896552
+true positive: 14, true negative: 803, false positive: 0, false negative: 15
+9-38: 0.013608044013381004
+accuracy: 0.9699519230769231, precision: 1.0, recall: 0.21875
+true positive: 7, true negative: 800, false positive: 0, false negative: 25
+9-39: 0.010878805071115494
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.48484848484848486
+true positive: 16, true negative: 799, false positive: 0, false negative: 17
+9-40: 0.007263737730681896
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5862068965517241
+true positive: 17, true negative: 803, false positive: 0, false negative: 12
+9-41: 0.007118042092770338
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5769230769230769
+true positive: 15, true negative: 806, false positive: 0, false negative: 11
+9-42: 0.00419108010828495
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.7692307692307693
+true positive: 20, true negative: 806, false positive: 0, false negative: 6
+9-43: 0.01046675443649292
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.5675675675675675
+true positive: 21, true negative: 795, false positive: 0, false negative: 16
+9-44: 0.0035066246055066586
+accuracy: 0.9927884615384616, precision: 1.0, recall: 0.7391304347826086
+true positive: 17, true negative: 809, false positive: 0, false negative: 6
+9-45: 0.005517577286809683
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.7333333333333333
+true positive: 22, true negative: 802, false positive: 0, false negative: 8
+9-46: 0.0032707841601222754
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.7222222222222222
+true positive: 13, true negative: 814, false positive: 0, false negative: 5
+9-47: 0.006967400200664997
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.6875
+true positive: 22, true negative: 800, false positive: 0, false negative: 10
+9-48: 0.009679330512881279
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.42857142857142855
+true positive: 12, true negative: 804, false positive: 0, false negative: 16
+9-49: 0.010856332257390022
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.5142857142857142
+true positive: 18, true negative: 797, false positive: 0, false negative: 17
+9-50: 0.01050047017633915
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.37037037037037035
+true positive: 10, true negative: 805, false positive: 0, false negative: 17
+9-51: 0.012930057011544704
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.27586206896551724
+true positive: 8, true negative: 803, false positive: 0, false negative: 21
+in epoch: accuracy: 0.9852995562130178, precision: 1.0, recall: 0.5306273062730628
+10-0: 0.002957885852083564
+accuracy: 0.9951923076923077, precision: 1.0, recall: 0.8333333333333334
+true positive: 20, true negative: 808, false positive: 0, false negative: 4
+10-1: 0.0067735640332102776
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.3888888888888889
+true positive: 7, true negative: 814, false positive: 0, false negative: 11
+10-2: 0.007850795984268188
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.4782608695652174
+true positive: 11, true negative: 809, false positive: 0, false negative: 12
+10-3: 0.001299942727200687
+accuracy: 0.9987980769230769, precision: 1.0, recall: 0.9375
+true positive: 15, true negative: 816, false positive: 0, false negative: 1
+10-4: 0.004740199539810419
+accuracy: 0.9915865384615384, precision: 1.0, recall: 0.6666666666666666
+true positive: 14, true negative: 811, false positive: 0, false negative: 7
+10-5: 0.005345763638615608
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.6521739130434783
+true positive: 15, true negative: 809, false positive: 0, false negative: 8
+10-6: 0.007305009290575981
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.6333333333333333
+true positive: 19, true negative: 802, false positive: 0, false negative: 11
+10-7: 0.010978556238114834
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.4
+true positive: 12, true negative: 802, false positive: 0, false negative: 18
+10-8: 0.00492929108440876
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.64
+true positive: 16, true negative: 807, false positive: 0, false negative: 9
+10-9: 0.007215084508061409
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.4782608695652174
+true positive: 11, true negative: 809, false positive: 0, false negative: 12
+10-10: 0.007245318032801151
+accuracy: 0.984375, precision: 1.0, recall: 0.3157894736842105
+true positive: 6, true negative: 813, false positive: 0, false negative: 13
+10-11: 0.005214497447013855
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.625
+true positive: 15, true negative: 808, false positive: 0, false negative: 9
+10-12: 0.005918251816183329
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5217391304347826
+true positive: 12, true negative: 809, false positive: 0, false negative: 11
+10-13: 0.00597563199698925
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.6
+true positive: 15, true negative: 807, false positive: 0, false negative: 10
+10-14: 0.0032255013938993216
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.7619047619047619
+true positive: 16, true negative: 811, false positive: 0, false negative: 5
+10-15: 0.006266755983233452
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5238095238095238
+true positive: 11, true negative: 811, false positive: 0, false negative: 10
+10-16: 0.0032161881681531668
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.7222222222222222
+true positive: 13, true negative: 814, false positive: 0, false negative: 5
+10-17: 0.010338406078517437
+accuracy: 0.9783653846153846, precision: 1.0, recall: 0.35714285714285715
+true positive: 10, true negative: 804, false positive: 0, false negative: 18
+10-18: 0.007252370472997427
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5384615384615384
+true positive: 14, true negative: 806, false positive: 0, false negative: 12
+10-19: 0.006302894093096256
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.5454545454545454
+true positive: 12, true negative: 810, false positive: 0, false negative: 10
+10-20: 0.007473086938261986
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.4782608695652174
+true positive: 11, true negative: 809, false positive: 0, false negative: 12
+10-21: 0.006651825271546841
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.47619047619047616
+true positive: 10, true negative: 811, false positive: 0, false negative: 11
+10-22: 0.006269665900617838
+accuracy: 0.9879807692307693, precision: 0.9333333333333333, recall: 0.6086956521739131
+true positive: 14, true negative: 808, false positive: 1, false negative: 9
+10-23: 0.009190925396978855
+accuracy: 0.9831730769230769, precision: 1.0, recall: 0.46153846153846156
+true positive: 12, true negative: 806, false positive: 0, false negative: 14
+10-24: 0.010104229673743248
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.32
+true positive: 8, true negative: 807, false positive: 0, false negative: 17
+10-25: 0.006240761838853359
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5
+true positive: 11, true negative: 810, false positive: 0, false negative: 11
+10-26: 0.007170334458351135
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.52
+true positive: 13, true negative: 807, false positive: 0, false negative: 12
+10-27: 0.012121191248297691
+accuracy: 0.9759615384615384, precision: 1.0, recall: 0.4444444444444444
+true positive: 16, true negative: 796, false positive: 0, false negative: 20
+10-28: 0.0069962176494300365
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5
+true positive: 11, true negative: 810, false positive: 0, false negative: 11
+10-29: 0.005595143418759108
+accuracy: 0.9891826923076923, precision: 1.0, recall: 0.5909090909090909
+true positive: 13, true negative: 810, false positive: 0, false negative: 9
+10-30: 0.010624095797538757
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.5142857142857142
+true positive: 18, true negative: 797, false positive: 0, false negative: 17
+10-31: 0.015636779367923737
+accuracy: 0.9699519230769231, precision: 1.0, recall: 0.40476190476190477
+true positive: 17, true negative: 790, false positive: 0, false negative: 25
+10-32: 0.0068360911682248116
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5925925925925926
+true positive: 16, true negative: 805, false positive: 0, false negative: 11
+10-33: 0.0022073443979024887
+accuracy: 0.9963942307692307, precision: 1.0, recall: 0.8636363636363636
+true positive: 19, true negative: 810, false positive: 0, false negative: 3
+10-34: 0.004351777024567127
+accuracy: 0.9915865384615384, precision: 1.0, recall: 0.75
+true positive: 21, true negative: 804, false positive: 0, false negative: 7
+10-35: 0.01031226385384798
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.5277777777777778
+true positive: 19, true negative: 796, false positive: 0, false negative: 17
+10-36: 0.006738549098372459
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5769230769230769
+true positive: 15, true negative: 806, false positive: 0, false negative: 11
+10-37: 0.007823118008673191
+accuracy: 0.984375, precision: 1.0, recall: 0.5517241379310345
+true positive: 16, true negative: 803, false positive: 0, false negative: 13
+10-38: 0.013410275802016258
+accuracy: 0.9735576923076923, precision: 1.0, recall: 0.3125
+true positive: 10, true negative: 800, false positive: 0, false negative: 22
+10-39: 0.010794983245432377
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.48484848484848486
+true positive: 16, true negative: 799, false positive: 0, false negative: 17
+10-40: 0.007345910184085369
+accuracy: 0.9855769230769231, precision: 1.0, recall: 0.5862068965517241
+true positive: 17, true negative: 803, false positive: 0, false negative: 12
+10-41: 0.0071031772531569
+accuracy: 0.9867788461538461, precision: 1.0, recall: 0.5769230769230769
+true positive: 15, true negative: 806, false positive: 0, false negative: 11
+10-42: 0.0037328344769775867
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.8076923076923077
+true positive: 21, true negative: 806, false positive: 0, false negative: 5
+10-43: 0.010470001958310604
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.5675675675675675
+true positive: 21, true negative: 795, false positive: 0, false negative: 16
+10-44: 0.0032994584180414677
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.782608695652174
+true positive: 18, true negative: 809, false positive: 0, false negative: 5
+10-45: 0.005350572522729635
+accuracy: 0.9903846153846154, precision: 1.0, recall: 0.7333333333333333
+true positive: 22, true negative: 802, false positive: 0, false negative: 8
+10-46: 0.0031954285223037004
+accuracy: 0.9939903846153846, precision: 1.0, recall: 0.7222222222222222
+true positive: 13, true negative: 814, false positive: 0, false negative: 5
+10-47: 0.006454979535192251
+accuracy: 0.9879807692307693, precision: 1.0, recall: 0.6875
+true positive: 22, true negative: 800, false positive: 0, false negative: 10
+10-48: 0.009429462254047394
+accuracy: 0.9819711538461539, precision: 1.0, recall: 0.4642857142857143
+true positive: 13, true negative: 804, false positive: 0, false negative: 15
+10-49: 0.010893947444856167
+accuracy: 0.9795673076923077, precision: 1.0, recall: 0.5142857142857142
+true positive: 18, true negative: 797, false positive: 0, false negative: 17
+10-50: 0.009799470193684101
+accuracy: 0.9807692307692307, precision: 1.0, recall: 0.4074074074074074
+true positive: 11, true negative: 805, false positive: 0, false negative: 16
+10-51: 0.012704919092357159
+accuracy: 0.9747596153846154, precision: 1.0, recall: 0.27586206896551724
+true positive: 8, true negative: 803, false positive: 0, false negative: 21
+in epoch: accuracy: 0.9859698594674556, precision: 0.9986666666666667, recall: 0.5527675276752767
+validation: 10-0: 0.015550464391708374
+accuracy: 0.9675480769230769, precision: 1.0, recall: 0.1
+true positive: 3, true negative: 802, false positive: 0, false negative: 27
+validation: 10-1: 0.014380658976733685
+accuracy: 0.9675480769230769, precision: 0.75, recall: 0.10344827586206896
+true positive: 3, true negative: 802, false positive: 1, false negative: 26
+validation: 10-2: 0.017181076109409332
+accuracy: 0.9603365384615384, precision: 1.0, recall: 0.05714285714285714
+true positive: 2, true negative: 797, false positive: 0, false negative: 33
+validation: 10-3: 0.012257244437932968
+accuracy: 0.9723557692307693, precision: 0.5, recall: 0.08695652173913043
+true positive: 2, true negative: 807, false positive: 2, false negative: 21
+validation: 10-4: 0.015383465215563774
+accuracy: 0.9663461538461539, precision: 1.0, recall: 0.15151515151515152
+true positive: 5, true negative: 799, false positive: 0, false negative: 28
+validation: 10-5: 0.00987180508673191
+accuracy: 0.9795673076923077, precision: 0.6, recall: 0.16666666666666666
+true positive: 3, true negative: 812, false positive: 2, false negative: 15
+in epoch: accuracy: 0.9689503205128205, precision: 0.782608695652174, recall: 0.10714285714285714
+time.struct_time(tm_year=2018, tm_mon=10, tm_mday=7, tm_hour=11, tm_min=41, tm_sec=50, tm_wday=6, tm_yday=280, tm_isdst=1)
+Sequential(
+  (0): Linear(in_features=148817, out_features=1000, bias=True)
+  (1): ReLU()
+  (2): Linear(in_features=1000, out_features=100, bias=True)
+  (3): Linear(in_features=100, out_features=52, bias=True)
+  (4): ReLU()
+)
+TRAINING
+time.struct_time(tm_year=2018, tm_mon=10, tm_mday=7, tm_hour=11, tm_min=42, tm_sec=5, tm_wday=6, tm_yday=280, tm_isdst=1)
+Sequential(
+  (0): Linear(in_features=148817, out_features=1000, bias=True)
+  (1): ReLU()
+  (2): Linear(in_features=1000, out_features=100, bias=True)
+  (3): Linear(in_features=100, out_features=52, bias=True)
+  (4): ReLU()
+)
+TRAINING
+time.struct_time(tm_year=2018, tm_mon=10, tm_mday=7, tm_hour=11, tm_min=44, tm_sec=1, tm_wday=6, tm_yday=280, tm_isdst=1)
+Sequential(
+  (0): Linear(in_features=148817, out_features=1000, bias=True)
+  (1): ReLU()
+  (2): Linear(in_features=1000, out_features=100, bias=True)
+  (3): Linear(in_features=100, out_features=52, bias=True)
+  (4): ReLU()
+)
+TRAINING

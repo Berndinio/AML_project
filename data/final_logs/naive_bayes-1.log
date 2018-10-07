@@ -1,0 +1,2071 @@
+Length of wordList: 148817
+Possible labels - KNN: ['other']
+Possible labels: ['other']
+Possible labels - KNN: ['animal', 'art', 'bible', 'biography', 'children', 'christianity', 'church', 'collection', 'cooking', 'correspondence', 'crime', 'detective stories', 'drama', 'education', 'encyclopedia', 'england', 'essay', 'ethics', 'fairy tales', 'fantasy', 'fiction', 'folklore', 'great britain', 'historical fiction', 'history', 'humor', 'juvenile', 'language', 'legends', 'life', 'love stories', 'medicine', 'music', 'mystery', 'north america', 'other', 'periodicals', 'philosophy', 'poetry', 'politics', 'religion', 'romance', 'science', 'science fiction', 'sex', 'short stories', 'social', 'translation', 'travel', 'united states', 'war', 'western']
+Possible labels - KNN: ['animal', 'art', 'bible', 'biography', 'children', 'christianity', 'church', 'collection', 'cooking', 'correspondence', 'crime', 'detective stories', 'drama', 'education', 'encyclopedia', 'england', 'essay', 'ethics', 'fairy tales', 'fantasy', 'fiction', 'folklore', 'great britain', 'historical fiction', 'history', 'humor', 'juvenile', 'language', 'legends', 'life', 'love stories', 'medicine', 'music', 'mystery', 'north america', 'other', 'periodicals', 'philosophy', 'poetry', 'politics', 'religion', 'romance', 'science', 'science fiction', 'sex', 'short stories', 'social', 'translation', 'travel', 'united states', 'war', 'western']
+Possible labels - KNN: ['animal', 'art', 'bible', 'biography', 'children', 'christianity', 'church', 'collection', 'cooking', 'correspondence', 'crime', 'detective stories', 'drama', 'education', 'encyclopedia', 'england', 'essay', 'ethics', 'fairy tales', 'fantasy', 'fiction', 'folklore', 'great britain', 'historical fiction', 'history', 'humor', 'juvenile', 'language', 'legends', 'life', 'love stories', 'medicine', 'music', 'mystery', 'north america', 'other', 'periodicals', 'philosophy', 'poetry', 'politics', 'religion', 'romance', 'science', 'science fiction', 'sex', 'short stories', 'social', 'translation', 'travel', 'united states', 'war', 'western']
+Training naive bayes on file 1/940
+Finished thread.
+Training naive bayes on file 2/940
+Finished thread.
+Training naive bayes on file 3/940
+Finished thread.
+Training naive bayes on file 4/940
+Finished thread.
+Training naive bayes on file 5/940
+Finished thread.
+Training naive bayes on file 6/940
+Finished thread.
+Training naive bayes on file 7/940
+Finished thread.
+Training naive bayes on file 8/940
+Finished thread.
+Training naive bayes on file 9/940
+Finished thread.
+Training naive bayes on file 10/940
+Finished thread.
+Training naive bayes on file 11/940
+Finished thread.
+Training naive bayes on file 12/940
+Finished thread.
+Training naive bayes on file 13/940
+Finished thread.
+Training naive bayes on file 14/940
+Finished thread.
+Training naive bayes on file 15/940
+Finished thread.
+Training naive bayes on file 16/940
+Finished thread.
+Training naive bayes on file 17/940
+Finished thread.
+Training naive bayes on file 18/940
+Finished thread.
+Training naive bayes on file 19/940
+Finished thread.
+Training naive bayes on file 20/940
+Finished thread.
+Training naive bayes on file 21/940
+Finished thread.
+Training naive bayes on file 22/940
+Finished thread.
+Training naive bayes on file 23/940
+Finished thread.
+Training naive bayes on file 24/940
+Finished thread.
+Training naive bayes on file 25/940
+Finished thread.
+Training naive bayes on file 26/940
+Finished thread.
+Training naive bayes on file 27/940
+Finished thread.
+Training naive bayes on file 28/940
+Finished thread.
+Training naive bayes on file 29/940
+Finished thread.
+Training naive bayes on file 30/940
+Finished thread.
+Training naive bayes on file 31/940
+Finished thread.
+Training naive bayes on file 32/940
+Finished thread.
+Training naive bayes on file 33/940
+Finished thread.
+Training naive bayes on file 34/940
+Finished thread.
+Training naive bayes on file 35/940
+Finished thread.
+Training naive bayes on file 36/940
+Finished thread.
+Training naive bayes on file 37/940
+Finished thread.
+Training naive bayes on file 38/940
+Finished thread.
+Training naive bayes on file 39/940
+Finished thread.
+Training naive bayes on file 40/940
+Finished thread.
+Training naive bayes on file 41/940
+Finished thread.
+Training naive bayes on file 42/940
+Finished thread.
+Training naive bayes on file 43/940
+Finished thread.
+Training naive bayes on file 44/940
+Finished thread.
+Training naive bayes on file 45/940
+Finished thread.
+Training naive bayes on file 46/940
+Finished thread.
+Training naive bayes on file 47/940
+Finished thread.
+Training naive bayes on file 48/940
+Finished thread.
+Training naive bayes on file 49/940
+Finished thread.
+Training naive bayes on file 50/940
+Finished thread.
+Training naive bayes on file 51/940
+Finished thread.
+Training naive bayes on file 52/940
+Finished thread.
+Training naive bayes on file 53/940
+Finished thread.
+Training naive bayes on file 54/940
+Finished thread.
+Training naive bayes on file 55/940
+Finished thread.
+Training naive bayes on file 56/940
+Finished thread.
+Training naive bayes on file 57/940
+Finished thread.
+Training naive bayes on file 58/940
+Finished thread.
+Training naive bayes on file 59/940
+Finished thread.
+Training naive bayes on file 60/940
+Finished thread.
+Training naive bayes on file 61/940
+Finished thread.
+Training naive bayes on file 62/940
+Finished thread.
+Training naive bayes on file 63/940
+Finished thread.
+Training naive bayes on file 64/940
+Finished thread.
+Training naive bayes on file 65/940
+Finished thread.
+Training naive bayes on file 66/940
+Finished thread.
+Training naive bayes on file 67/940
+Finished thread.
+Training naive bayes on file 68/940
+Finished thread.
+Training naive bayes on file 69/940
+Finished thread.
+Training naive bayes on file 70/940
+Finished thread.
+Training naive bayes on file 71/940
+Finished thread.
+Training naive bayes on file 72/940
+Finished thread.
+Training naive bayes on file 73/940
+Finished thread.
+Training naive bayes on file 74/940
+Finished thread.
+Training naive bayes on file 75/940
+Finished thread.
+Training naive bayes on file 76/940
+Finished thread.
+Training naive bayes on file 77/940
+Finished thread.
+Training naive bayes on file 78/940
+Finished thread.
+Training naive bayes on file 79/940
+Finished thread.
+Training naive bayes on file 80/940
+Finished thread.
+Training naive bayes on file 81/940
+Finished thread.
+Training naive bayes on file 82/940
+Finished thread.
+Training naive bayes on file 83/940
+Finished thread.
+Training naive bayes on file 84/940
+Finished thread.
+Training naive bayes on file 85/940
+Finished thread.
+Training naive bayes on file 86/940
+Finished thread.
+Training naive bayes on file 87/940
+Finished thread.
+Training naive bayes on file 88/940
+Finished thread.
+Training naive bayes on file 89/940
+Finished thread.
+Training naive bayes on file 90/940
+Finished thread.
+Training naive bayes on file 91/940
+Finished thread.
+Training naive bayes on file 92/940
+Finished thread.
+Training naive bayes on file 93/940
+Finished thread.
+Training naive bayes on file 94/940
+Finished thread.
+Training naive bayes on file 95/940
+Finished thread.
+Training naive bayes on file 96/940
+Finished thread.
+Training naive bayes on file 97/940
+Finished thread.
+Training naive bayes on file 98/940
+Finished thread.
+Training naive bayes on file 99/940
+Finished thread.
+Training naive bayes on file 100/940
+Finished thread.
+Training naive bayes on file 101/940
+Finished thread.
+Training naive bayes on file 102/940
+Finished thread.
+Training naive bayes on file 103/940
+Finished thread.
+Training naive bayes on file 104/940
+Finished thread.
+Training naive bayes on file 105/940
+Finished thread.
+Training naive bayes on file 106/940
+Finished thread.
+Training naive bayes on file 107/940
+Finished thread.
+Training naive bayes on file 108/940
+Finished thread.
+Training naive bayes on file 109/940
+Finished thread.
+Training naive bayes on file 110/940
+Finished thread.
+Training naive bayes on file 111/940
+Finished thread.
+Training naive bayes on file 112/940
+Finished thread.
+Training naive bayes on file 113/940
+Finished thread.
+Training naive bayes on file 114/940
+Finished thread.
+Training naive bayes on file 115/940
+Finished thread.
+Training naive bayes on file 116/940
+Finished thread.
+Training naive bayes on file 117/940
+Finished thread.
+Training naive bayes on file 118/940
+Finished thread.
+Training naive bayes on file 119/940
+Finished thread.
+Training naive bayes on file 120/940
+Finished thread.
+Training naive bayes on file 121/940
+Finished thread.
+Training naive bayes on file 122/940
+Finished thread.
+Training naive bayes on file 123/940
+Finished thread.
+Training naive bayes on file 124/940
+Finished thread.
+Training naive bayes on file 125/940
+Finished thread.
+Training naive bayes on file 126/940
+Finished thread.
+Training naive bayes on file 127/940
+Finished thread.
+Training naive bayes on file 128/940
+Finished thread.
+Training naive bayes on file 129/940
+Finished thread.
+Training naive bayes on file 130/940
+Finished thread.
+Training naive bayes on file 131/940
+Finished thread.
+Training naive bayes on file 132/940
+Finished thread.
+Training naive bayes on file 133/940
+Finished thread.
+Training naive bayes on file 134/940
+Finished thread.
+Training naive bayes on file 135/940
+Finished thread.
+Training naive bayes on file 136/940
+Finished thread.
+Training naive bayes on file 137/940
+Finished thread.
+Training naive bayes on file 138/940
+Finished thread.
+Training naive bayes on file 139/940
+Finished thread.
+Training naive bayes on file 140/940
+Finished thread.
+Training naive bayes on file 141/940
+Finished thread.
+Training naive bayes on file 142/940
+Finished thread.
+Training naive bayes on file 143/940
+Finished thread.
+Training naive bayes on file 144/940
+Finished thread.
+Training naive bayes on file 145/940
+Finished thread.
+Training naive bayes on file 146/940
+Finished thread.
+Training naive bayes on file 147/940
+Finished thread.
+Training naive bayes on file 148/940
+Finished thread.
+Training naive bayes on file 149/940
+Finished thread.
+Training naive bayes on file 150/940
+Finished thread.
+Training naive bayes on file 151/940
+Finished thread.
+Training naive bayes on file 152/940
+Finished thread.
+Training naive bayes on file 153/940
+Finished thread.
+Training naive bayes on file 154/940
+Finished thread.
+Training naive bayes on file 155/940
+Finished thread.
+Training naive bayes on file 156/940
+Finished thread.
+Training naive bayes on file 157/940
+Finished thread.
+Training naive bayes on file 158/940
+Finished thread.
+Training naive bayes on file 159/940
+Finished thread.
+Training naive bayes on file 160/940
+Finished thread.
+Training naive bayes on file 161/940
+Finished thread.
+Training naive bayes on file 162/940
+Finished thread.
+Training naive bayes on file 163/940
+Finished thread.
+Training naive bayes on file 164/940
+Finished thread.
+Training naive bayes on file 165/940
+Finished thread.
+Training naive bayes on file 166/940
+Finished thread.
+Training naive bayes on file 167/940
+Finished thread.
+Training naive bayes on file 168/940
+Finished thread.
+Training naive bayes on file 169/940
+Finished thread.
+Training naive bayes on file 170/940
+Finished thread.
+Training naive bayes on file 171/940
+Finished thread.
+Training naive bayes on file 172/940
+Finished thread.
+Training naive bayes on file 173/940
+Finished thread.
+Training naive bayes on file 174/940
+Finished thread.
+Training naive bayes on file 175/940
+Finished thread.
+Training naive bayes on file 176/940
+Finished thread.
+Training naive bayes on file 177/940
+Finished thread.
+Training naive bayes on file 178/940
+Finished thread.
+Training naive bayes on file 179/940
+Finished thread.
+Training naive bayes on file 180/940
+Finished thread.
+Training naive bayes on file 181/940
+Finished thread.
+Training naive bayes on file 182/940
+Finished thread.
+Training naive bayes on file 183/940
+Finished thread.
+Training naive bayes on file 184/940
+Finished thread.
+Training naive bayes on file 185/940
+Finished thread.
+Training naive bayes on file 186/940
+Finished thread.
+Training naive bayes on file 187/940
+Finished thread.
+Training naive bayes on file 188/940
+Finished thread.
+Training naive bayes on file 189/940
+Finished thread.
+Training naive bayes on file 190/940
+Finished thread.
+Training naive bayes on file 191/940
+Finished thread.
+Training naive bayes on file 192/940
+Finished thread.
+Training naive bayes on file 193/940
+Finished thread.
+Training naive bayes on file 194/940
+Finished thread.
+Training naive bayes on file 195/940
+Finished thread.
+Training naive bayes on file 196/940
+Finished thread.
+Training naive bayes on file 197/940
+Finished thread.
+Training naive bayes on file 198/940
+Finished thread.
+Training naive bayes on file 199/940
+Finished thread.
+Training naive bayes on file 200/940
+Finished thread.
+Training naive bayes on file 201/940
+Finished thread.
+Training naive bayes on file 202/940
+Finished thread.
+Training naive bayes on file 203/940
+Finished thread.
+Training naive bayes on file 204/940
+Finished thread.
+Training naive bayes on file 205/940
+Finished thread.
+Training naive bayes on file 206/940
+Finished thread.
+Training naive bayes on file 207/940
+Finished thread.
+Training naive bayes on file 208/940
+Finished thread.
+Training naive bayes on file 209/940
+Finished thread.
+Training naive bayes on file 210/940
+Finished thread.
+Training naive bayes on file 211/940
+Finished thread.
+Training naive bayes on file 212/940
+Finished thread.
+Training naive bayes on file 213/940
+Finished thread.
+Training naive bayes on file 214/940
+Finished thread.
+Training naive bayes on file 215/940
+Finished thread.
+Training naive bayes on file 216/940
+Finished thread.
+Training naive bayes on file 217/940
+Finished thread.
+Training naive bayes on file 218/940
+Finished thread.
+Training naive bayes on file 219/940
+Finished thread.
+Training naive bayes on file 220/940
+Finished thread.
+Training naive bayes on file 221/940
+Finished thread.
+Training naive bayes on file 222/940
+Finished thread.
+Training naive bayes on file 223/940
+Finished thread.
+Training naive bayes on file 224/940
+Finished thread.
+Training naive bayes on file 225/940
+Finished thread.
+Training naive bayes on file 226/940
+Finished thread.
+Training naive bayes on file 227/940
+Finished thread.
+Training naive bayes on file 228/940
+Finished thread.
+Training naive bayes on file 229/940
+Finished thread.
+Training naive bayes on file 230/940
+Finished thread.
+Training naive bayes on file 231/940
+Finished thread.
+Training naive bayes on file 232/940
+Finished thread.
+Training naive bayes on file 233/940
+Finished thread.
+Training naive bayes on file 234/940
+Finished thread.
+Training naive bayes on file 235/940
+Finished thread.
+Training naive bayes on file 236/940
+Finished thread.
+Training naive bayes on file 237/940
+Finished thread.
+Training naive bayes on file 238/940
+Finished thread.
+Training naive bayes on file 239/940
+Finished thread.
+Training naive bayes on file 240/940
+Finished thread.
+Training naive bayes on file 241/940
+Finished thread.
+Training naive bayes on file 242/940
+Finished thread.
+Training naive bayes on file 243/940
+Finished thread.
+Training naive bayes on file 244/940
+Finished thread.
+Training naive bayes on file 245/940
+Finished thread.
+Training naive bayes on file 246/940
+Finished thread.
+Training naive bayes on file 247/940
+Finished thread.
+Training naive bayes on file 248/940
+Finished thread.
+Training naive bayes on file 249/940
+Finished thread.
+Training naive bayes on file 250/940
+Finished thread.
+Training naive bayes on file 251/940
+Finished thread.
+Training naive bayes on file 252/940
+Finished thread.
+Training naive bayes on file 253/940
+Finished thread.
+Training naive bayes on file 254/940
+Finished thread.
+Training naive bayes on file 255/940
+Finished thread.
+Training naive bayes on file 256/940
+Finished thread.
+Training naive bayes on file 257/940
+Finished thread.
+Training naive bayes on file 258/940
+Finished thread.
+Training naive bayes on file 259/940
+Finished thread.
+Training naive bayes on file 260/940
+Finished thread.
+Training naive bayes on file 261/940
+Finished thread.
+Training naive bayes on file 262/940
+Finished thread.
+Training naive bayes on file 263/940
+Finished thread.
+Training naive bayes on file 264/940
+Finished thread.
+Training naive bayes on file 265/940
+Finished thread.
+Training naive bayes on file 266/940
+Finished thread.
+Training naive bayes on file 267/940
+Finished thread.
+Training naive bayes on file 268/940
+Finished thread.
+Training naive bayes on file 269/940
+Finished thread.
+Training naive bayes on file 270/940
+Finished thread.
+Training naive bayes on file 271/940
+Finished thread.
+Training naive bayes on file 272/940
+Finished thread.
+Training naive bayes on file 273/940
+Finished thread.
+Training naive bayes on file 274/940
+Finished thread.
+Training naive bayes on file 275/940
+Finished thread.
+Training naive bayes on file 276/940
+Finished thread.
+Training naive bayes on file 277/940
+Finished thread.
+Training naive bayes on file 278/940
+Finished thread.
+Training naive bayes on file 279/940
+Finished thread.
+Training naive bayes on file 280/940
+Finished thread.
+Training naive bayes on file 281/940
+Finished thread.
+Training naive bayes on file 282/940
+Finished thread.
+Training naive bayes on file 283/940
+Finished thread.
+Training naive bayes on file 284/940
+Finished thread.
+Training naive bayes on file 285/940
+Finished thread.
+Training naive bayes on file 286/940
+Finished thread.
+Training naive bayes on file 287/940
+Finished thread.
+Training naive bayes on file 288/940
+Finished thread.
+Training naive bayes on file 289/940
+Finished thread.
+Training naive bayes on file 290/940
+Finished thread.
+Training naive bayes on file 291/940
+Finished thread.
+Training naive bayes on file 292/940
+Finished thread.
+Training naive bayes on file 293/940
+Finished thread.
+Training naive bayes on file 294/940
+Finished thread.
+Training naive bayes on file 295/940
+Finished thread.
+Training naive bayes on file 296/940
+Finished thread.
+Training naive bayes on file 297/940
+Finished thread.
+Training naive bayes on file 298/940
+Finished thread.
+Training naive bayes on file 299/940
+Finished thread.
+Training naive bayes on file 300/940
+Finished thread.
+Training naive bayes on file 301/940
+Finished thread.
+Training naive bayes on file 302/940
+Finished thread.
+Training naive bayes on file 303/940
+Finished thread.
+Training naive bayes on file 304/940
+Finished thread.
+Training naive bayes on file 305/940
+Finished thread.
+Training naive bayes on file 306/940
+Finished thread.
+Training naive bayes on file 307/940
+Finished thread.
+Training naive bayes on file 308/940
+Finished thread.
+Training naive bayes on file 309/940
+Finished thread.
+Training naive bayes on file 310/940
+Finished thread.
+Training naive bayes on file 311/940
+Finished thread.
+Training naive bayes on file 312/940
+Finished thread.
+Training naive bayes on file 313/940
+Finished thread.
+Training naive bayes on file 314/940
+Finished thread.
+Training naive bayes on file 315/940
+Finished thread.
+Training naive bayes on file 316/940
+Finished thread.
+Training naive bayes on file 317/940
+Finished thread.
+Training naive bayes on file 318/940
+Finished thread.
+Training naive bayes on file 319/940
+Finished thread.
+Training naive bayes on file 320/940
+Finished thread.
+Training naive bayes on file 321/940
+Finished thread.
+Training naive bayes on file 322/940
+Finished thread.
+Training naive bayes on file 323/940
+Finished thread.
+Training naive bayes on file 324/940
+Finished thread.
+Training naive bayes on file 325/940
+Finished thread.
+Training naive bayes on file 326/940
+Finished thread.
+Training naive bayes on file 327/940
+Finished thread.
+Training naive bayes on file 328/940
+Finished thread.
+Training naive bayes on file 329/940
+Finished thread.
+Training naive bayes on file 330/940
+Finished thread.
+Training naive bayes on file 331/940
+Finished thread.
+Training naive bayes on file 332/940
+Finished thread.
+Training naive bayes on file 333/940
+Finished thread.
+Training naive bayes on file 334/940
+Finished thread.
+Training naive bayes on file 335/940
+Finished thread.
+Training naive bayes on file 336/940
+Finished thread.
+Training naive bayes on file 337/940
+Finished thread.
+Training naive bayes on file 338/940
+Finished thread.
+Training naive bayes on file 339/940
+Finished thread.
+Training naive bayes on file 340/940
+Finished thread.
+Training naive bayes on file 341/940
+Finished thread.
+Training naive bayes on file 342/940
+Finished thread.
+Training naive bayes on file 343/940
+Finished thread.
+Training naive bayes on file 344/940
+Finished thread.
+Training naive bayes on file 345/940
+Finished thread.
+Training naive bayes on file 346/940
+Finished thread.
+Training naive bayes on file 347/940
+Finished thread.
+Training naive bayes on file 348/940
+Finished thread.
+Training naive bayes on file 349/940
+Finished thread.
+Training naive bayes on file 350/940
+Finished thread.
+Training naive bayes on file 351/940
+Finished thread.
+Training naive bayes on file 352/940
+Finished thread.
+Training naive bayes on file 353/940
+Finished thread.
+Training naive bayes on file 354/940
+Finished thread.
+Training naive bayes on file 355/940
+Finished thread.
+Training naive bayes on file 356/940
+Finished thread.
+Training naive bayes on file 357/940
+Finished thread.
+Training naive bayes on file 358/940
+Finished thread.
+Training naive bayes on file 359/940
+Finished thread.
+Training naive bayes on file 360/940
+Finished thread.
+Training naive bayes on file 361/940
+Finished thread.
+Training naive bayes on file 362/940
+Finished thread.
+Training naive bayes on file 363/940
+Finished thread.
+Training naive bayes on file 364/940
+Finished thread.
+Training naive bayes on file 365/940
+Finished thread.
+Training naive bayes on file 366/940
+Finished thread.
+Training naive bayes on file 367/940
+Finished thread.
+Training naive bayes on file 368/940
+Finished thread.
+Training naive bayes on file 369/940
+Finished thread.
+Training naive bayes on file 370/940
+Finished thread.
+Training naive bayes on file 371/940
+Finished thread.
+Training naive bayes on file 372/940
+Finished thread.
+Training naive bayes on file 373/940
+Finished thread.
+Training naive bayes on file 374/940
+Finished thread.
+Training naive bayes on file 375/940
+Finished thread.
+Training naive bayes on file 376/940
+Finished thread.
+Training naive bayes on file 377/940
+Finished thread.
+Training naive bayes on file 378/940
+Finished thread.
+Training naive bayes on file 379/940
+Finished thread.
+Training naive bayes on file 380/940
+Finished thread.
+Training naive bayes on file 381/940
+Finished thread.
+Training naive bayes on file 382/940
+Finished thread.
+Training naive bayes on file 383/940
+Finished thread.
+Training naive bayes on file 384/940
+Finished thread.
+Training naive bayes on file 385/940
+Finished thread.
+Training naive bayes on file 386/940
+Finished thread.
+Training naive bayes on file 387/940
+Finished thread.
+Training naive bayes on file 388/940
+Finished thread.
+Training naive bayes on file 389/940
+Finished thread.
+Training naive bayes on file 390/940
+Finished thread.
+Training naive bayes on file 391/940
+Finished thread.
+Training naive bayes on file 392/940
+Finished thread.
+Training naive bayes on file 393/940
+Finished thread.
+Training naive bayes on file 394/940
+Finished thread.
+Training naive bayes on file 395/940
+Finished thread.
+Training naive bayes on file 396/940
+Finished thread.
+Training naive bayes on file 397/940
+Finished thread.
+Training naive bayes on file 398/940
+Finished thread.
+Training naive bayes on file 399/940
+Finished thread.
+Training naive bayes on file 400/940
+Finished thread.
+Training naive bayes on file 401/940
+Finished thread.
+Training naive bayes on file 402/940
+Finished thread.
+Training naive bayes on file 403/940
+Finished thread.
+Training naive bayes on file 404/940
+Finished thread.
+Training naive bayes on file 405/940
+Finished thread.
+Training naive bayes on file 406/940
+Finished thread.
+Training naive bayes on file 407/940
+Finished thread.
+Training naive bayes on file 408/940
+Finished thread.
+Training naive bayes on file 409/940
+Finished thread.
+Training naive bayes on file 410/940
+Finished thread.
+Training naive bayes on file 411/940
+Finished thread.
+Training naive bayes on file 412/940
+Finished thread.
+Training naive bayes on file 413/940
+Finished thread.
+Training naive bayes on file 414/940
+Finished thread.
+Training naive bayes on file 415/940
+Finished thread.
+Training naive bayes on file 416/940
+Finished thread.
+Training naive bayes on file 417/940
+Finished thread.
+Training naive bayes on file 418/940
+Finished thread.
+Training naive bayes on file 419/940
+Finished thread.
+Training naive bayes on file 420/940
+Finished thread.
+Training naive bayes on file 421/940
+Finished thread.
+Training naive bayes on file 422/940
+Finished thread.
+Training naive bayes on file 423/940
+Finished thread.
+Training naive bayes on file 424/940
+Finished thread.
+Training naive bayes on file 425/940
+Finished thread.
+Training naive bayes on file 426/940
+Finished thread.
+Training naive bayes on file 427/940
+Finished thread.
+Training naive bayes on file 428/940
+Finished thread.
+Training naive bayes on file 429/940
+Finished thread.
+Training naive bayes on file 430/940
+Finished thread.
+Training naive bayes on file 431/940
+Finished thread.
+Training naive bayes on file 432/940
+Finished thread.
+Training naive bayes on file 433/940
+Finished thread.
+Training naive bayes on file 434/940
+Finished thread.
+Training naive bayes on file 435/940
+Finished thread.
+Training naive bayes on file 436/940
+Finished thread.
+Training naive bayes on file 437/940
+Finished thread.
+Training naive bayes on file 438/940
+Finished thread.
+Training naive bayes on file 439/940
+Finished thread.
+Training naive bayes on file 440/940
+Finished thread.
+Training naive bayes on file 441/940
+Finished thread.
+Training naive bayes on file 442/940
+Finished thread.
+Training naive bayes on file 443/940
+Finished thread.
+Training naive bayes on file 444/940
+Finished thread.
+Training naive bayes on file 445/940
+Finished thread.
+Training naive bayes on file 446/940
+Finished thread.
+Training naive bayes on file 447/940
+Finished thread.
+Training naive bayes on file 448/940
+Finished thread.
+Training naive bayes on file 449/940
+Finished thread.
+Training naive bayes on file 450/940
+Finished thread.
+Training naive bayes on file 451/940
+Finished thread.
+Training naive bayes on file 452/940
+Finished thread.
+Training naive bayes on file 453/940
+Finished thread.
+Training naive bayes on file 454/940
+Finished thread.
+Training naive bayes on file 455/940
+Finished thread.
+Training naive bayes on file 456/940
+Finished thread.
+Training naive bayes on file 457/940
+Finished thread.
+Training naive bayes on file 458/940
+Finished thread.
+Training naive bayes on file 459/940
+Finished thread.
+Training naive bayes on file 460/940
+Finished thread.
+Training naive bayes on file 461/940
+Finished thread.
+Training naive bayes on file 462/940
+Finished thread.
+Training naive bayes on file 463/940
+Finished thread.
+Training naive bayes on file 464/940
+Finished thread.
+Training naive bayes on file 465/940
+Finished thread.
+Training naive bayes on file 466/940
+Finished thread.
+Training naive bayes on file 467/940
+Finished thread.
+Training naive bayes on file 468/940
+Finished thread.
+Training naive bayes on file 469/940
+Finished thread.
+Training naive bayes on file 470/940
+Finished thread.
+Training naive bayes on file 471/940
+Finished thread.
+Training naive bayes on file 472/940
+Finished thread.
+Training naive bayes on file 473/940
+Finished thread.
+Training naive bayes on file 474/940
+Finished thread.
+Training naive bayes on file 475/940
+Finished thread.
+Training naive bayes on file 476/940
+Finished thread.
+Training naive bayes on file 477/940
+Finished thread.
+Training naive bayes on file 478/940
+Finished thread.
+Training naive bayes on file 479/940
+Finished thread.
+Training naive bayes on file 480/940
+Finished thread.
+Training naive bayes on file 481/940
+Finished thread.
+Training naive bayes on file 482/940
+Finished thread.
+Training naive bayes on file 483/940
+Finished thread.
+Training naive bayes on file 484/940
+Finished thread.
+Training naive bayes on file 485/940
+Finished thread.
+Training naive bayes on file 486/940
+Finished thread.
+Training naive bayes on file 487/940
+Finished thread.
+Training naive bayes on file 488/940
+Finished thread.
+Training naive bayes on file 489/940
+Finished thread.
+Training naive bayes on file 490/940
+Finished thread.
+Training naive bayes on file 491/940
+Finished thread.
+Training naive bayes on file 492/940
+Finished thread.
+Training naive bayes on file 493/940
+Finished thread.
+Training naive bayes on file 494/940
+Finished thread.
+Training naive bayes on file 495/940
+Finished thread.
+Training naive bayes on file 496/940
+Finished thread.
+Training naive bayes on file 497/940
+Finished thread.
+Training naive bayes on file 498/940
+Finished thread.
+Training naive bayes on file 499/940
+Finished thread.
+Training naive bayes on file 500/940
+Finished thread.
+Training naive bayes on file 501/940
+Finished thread.
+Training naive bayes on file 502/940
+Finished thread.
+Training naive bayes on file 503/940
+Finished thread.
+Training naive bayes on file 504/940
+Finished thread.
+Training naive bayes on file 505/940
+Finished thread.
+Training naive bayes on file 506/940
+Finished thread.
+Training naive bayes on file 507/940
+Finished thread.
+Training naive bayes on file 508/940
+Finished thread.
+Training naive bayes on file 509/940
+Finished thread.
+Training naive bayes on file 510/940
+Finished thread.
+Training naive bayes on file 511/940
+Finished thread.
+Training naive bayes on file 512/940
+Finished thread.
+Training naive bayes on file 513/940
+Finished thread.
+Training naive bayes on file 514/940
+Finished thread.
+Training naive bayes on file 515/940
+Finished thread.
+Training naive bayes on file 516/940
+Finished thread.
+Training naive bayes on file 517/940
+Finished thread.
+Training naive bayes on file 518/940
+Finished thread.
+Training naive bayes on file 519/940
+Finished thread.
+Training naive bayes on file 520/940
+Finished thread.
+Training naive bayes on file 521/940
+Finished thread.
+Training naive bayes on file 522/940
+Finished thread.
+Training naive bayes on file 523/940
+Finished thread.
+Training naive bayes on file 524/940
+Finished thread.
+Training naive bayes on file 525/940
+Finished thread.
+Training naive bayes on file 526/940
+Finished thread.
+Training naive bayes on file 527/940
+Finished thread.
+Training naive bayes on file 528/940
+Finished thread.
+Training naive bayes on file 529/940
+Finished thread.
+Training naive bayes on file 530/940
+Finished thread.
+Training naive bayes on file 531/940
+Finished thread.
+Training naive bayes on file 532/940
+Finished thread.
+Training naive bayes on file 533/940
+Finished thread.
+Training naive bayes on file 534/940
+Finished thread.
+Training naive bayes on file 535/940
+Finished thread.
+Training naive bayes on file 536/940
+Finished thread.
+Training naive bayes on file 537/940
+Finished thread.
+Training naive bayes on file 538/940
+Finished thread.
+Training naive bayes on file 539/940
+Finished thread.
+Training naive bayes on file 540/940
+Finished thread.
+Training naive bayes on file 541/940
+Finished thread.
+Training naive bayes on file 542/940
+Finished thread.
+Training naive bayes on file 543/940
+Finished thread.
+Training naive bayes on file 544/940
+Finished thread.
+Training naive bayes on file 545/940
+Finished thread.
+Training naive bayes on file 546/940
+Finished thread.
+Training naive bayes on file 547/940
+Finished thread.
+Training naive bayes on file 548/940
+Finished thread.
+Training naive bayes on file 549/940
+Finished thread.
+Training naive bayes on file 550/940
+Finished thread.
+Training naive bayes on file 551/940
+Finished thread.
+Training naive bayes on file 552/940
+Finished thread.
+Training naive bayes on file 553/940
+Finished thread.
+Training naive bayes on file 554/940
+Finished thread.
+Training naive bayes on file 555/940
+Finished thread.
+Training naive bayes on file 556/940
+Finished thread.
+Training naive bayes on file 557/940
+Finished thread.
+Training naive bayes on file 558/940
+Finished thread.
+Training naive bayes on file 559/940
+Finished thread.
+Training naive bayes on file 560/940
+Finished thread.
+Training naive bayes on file 561/940
+Finished thread.
+Training naive bayes on file 562/940
+Finished thread.
+Training naive bayes on file 563/940
+Finished thread.
+Training naive bayes on file 564/940
+Finished thread.
+Training naive bayes on file 565/940
+Finished thread.
+Training naive bayes on file 566/940
+Finished thread.
+Training naive bayes on file 567/940
+Finished thread.
+Training naive bayes on file 568/940
+Finished thread.
+Training naive bayes on file 569/940
+Finished thread.
+Training naive bayes on file 570/940
+Finished thread.
+Training naive bayes on file 571/940
+Finished thread.
+Training naive bayes on file 572/940
+Finished thread.
+Training naive bayes on file 573/940
+Finished thread.
+Training naive bayes on file 574/940
+Finished thread.
+Training naive bayes on file 575/940
+Finished thread.
+Training naive bayes on file 576/940
+Finished thread.
+Training naive bayes on file 577/940
+Finished thread.
+Training naive bayes on file 578/940
+Finished thread.
+Training naive bayes on file 579/940
+Finished thread.
+Training naive bayes on file 580/940
+Finished thread.
+Training naive bayes on file 581/940
+Finished thread.
+Training naive bayes on file 582/940
+Finished thread.
+Training naive bayes on file 583/940
+Finished thread.
+Training naive bayes on file 584/940
+Finished thread.
+Training naive bayes on file 585/940
+Finished thread.
+Training naive bayes on file 586/940
+Finished thread.
+Training naive bayes on file 587/940
+Finished thread.
+Training naive bayes on file 588/940
+Finished thread.
+Training naive bayes on file 589/940
+Finished thread.
+Training naive bayes on file 590/940
+Finished thread.
+Training naive bayes on file 591/940
+Finished thread.
+Training naive bayes on file 592/940
+Finished thread.
+Training naive bayes on file 593/940
+Finished thread.
+Training naive bayes on file 594/940
+Finished thread.
+Training naive bayes on file 595/940
+Finished thread.
+Training naive bayes on file 596/940
+Finished thread.
+Training naive bayes on file 597/940
+Finished thread.
+Training naive bayes on file 598/940
+Finished thread.
+Training naive bayes on file 599/940
+Finished thread.
+Training naive bayes on file 600/940
+Finished thread.
+Training naive bayes on file 601/940
+Finished thread.
+Training naive bayes on file 602/940
+Finished thread.
+Training naive bayes on file 603/940
+Finished thread.
+Training naive bayes on file 604/940
+Finished thread.
+Training naive bayes on file 605/940
+Finished thread.
+Training naive bayes on file 606/940
+Finished thread.
+Training naive bayes on file 607/940
+Finished thread.
+Training naive bayes on file 608/940
+Finished thread.
+Training naive bayes on file 609/940
+Finished thread.
+Training naive bayes on file 610/940
+Finished thread.
+Training naive bayes on file 611/940
+Finished thread.
+Training naive bayes on file 612/940
+Finished thread.
+Training naive bayes on file 613/940
+Finished thread.
+Training naive bayes on file 614/940
+Finished thread.
+Training naive bayes on file 615/940
+Finished thread.
+Training naive bayes on file 616/940
+Finished thread.
+Training naive bayes on file 617/940
+Finished thread.
+Training naive bayes on file 618/940
+Finished thread.
+Training naive bayes on file 619/940
+Finished thread.
+Training naive bayes on file 620/940
+Finished thread.
+Training naive bayes on file 621/940
+Finished thread.
+Training naive bayes on file 622/940
+Finished thread.
+Training naive bayes on file 623/940
+Finished thread.
+Training naive bayes on file 624/940
+Finished thread.
+Training naive bayes on file 625/940
+Finished thread.
+Training naive bayes on file 626/940
+Finished thread.
+Training naive bayes on file 627/940
+Finished thread.
+Training naive bayes on file 628/940
+Finished thread.
+Training naive bayes on file 629/940
+Finished thread.
+Training naive bayes on file 630/940
+Finished thread.
+Training naive bayes on file 631/940
+Finished thread.
+Training naive bayes on file 632/940
+Finished thread.
+Training naive bayes on file 633/940
+Finished thread.
+Training naive bayes on file 634/940
+Finished thread.
+Training naive bayes on file 635/940
+Finished thread.
+Training naive bayes on file 636/940
+Finished thread.
+Training naive bayes on file 637/940
+Finished thread.
+Training naive bayes on file 638/940
+Finished thread.
+Training naive bayes on file 639/940
+Finished thread.
+Training naive bayes on file 640/940
+Finished thread.
+Training naive bayes on file 641/940
+Finished thread.
+Training naive bayes on file 642/940
+Finished thread.
+Training naive bayes on file 643/940
+Finished thread.
+Training naive bayes on file 644/940
+Finished thread.
+Training naive bayes on file 645/940
+Finished thread.
+Training naive bayes on file 646/940
+Finished thread.
+Training naive bayes on file 647/940
+Finished thread.
+Training naive bayes on file 648/940
+Finished thread.
+Training naive bayes on file 649/940
+Finished thread.
+Training naive bayes on file 650/940
+Finished thread.
+Training naive bayes on file 651/940
+Finished thread.
+Training naive bayes on file 652/940
+Finished thread.
+Training naive bayes on file 653/940
+Finished thread.
+Training naive bayes on file 654/940
+Finished thread.
+Training naive bayes on file 655/940
+Finished thread.
+Training naive bayes on file 656/940
+Finished thread.
+Training naive bayes on file 657/940
+Finished thread.
+Training naive bayes on file 658/940
+Finished thread.
+Training naive bayes on file 659/940
+Finished thread.
+Training naive bayes on file 660/940
+Finished thread.
+Training naive bayes on file 661/940
+Finished thread.
+Training naive bayes on file 662/940
+Finished thread.
+Training naive bayes on file 663/940
+Finished thread.
+Training naive bayes on file 664/940
+Finished thread.
+Training naive bayes on file 665/940
+Finished thread.
+Training naive bayes on file 666/940
+Finished thread.
+Training naive bayes on file 667/940
+Finished thread.
+Training naive bayes on file 668/940
+Finished thread.
+Training naive bayes on file 669/940
+Finished thread.
+Training naive bayes on file 670/940
+Finished thread.
+Training naive bayes on file 671/940
+Finished thread.
+Training naive bayes on file 672/940
+Finished thread.
+Training naive bayes on file 673/940
+Finished thread.
+Training naive bayes on file 674/940
+Finished thread.
+Training naive bayes on file 675/940
+Finished thread.
+Training naive bayes on file 676/940
+Finished thread.
+Training naive bayes on file 677/940
+Finished thread.
+Training naive bayes on file 678/940
+Finished thread.
+Training naive bayes on file 679/940
+Finished thread.
+Training naive bayes on file 680/940
+Finished thread.
+Training naive bayes on file 681/940
+Finished thread.
+Training naive bayes on file 682/940
+Finished thread.
+Training naive bayes on file 683/940
+Finished thread.
+Training naive bayes on file 684/940
+Finished thread.
+Training naive bayes on file 685/940
+Finished thread.
+Training naive bayes on file 686/940
+Finished thread.
+Training naive bayes on file 687/940
+Finished thread.
+Training naive bayes on file 688/940
+Finished thread.
+Training naive bayes on file 689/940
+Finished thread.
+Training naive bayes on file 690/940
+Finished thread.
+Training naive bayes on file 691/940
+Finished thread.
+Training naive bayes on file 692/940
+Finished thread.
+Training naive bayes on file 693/940
+Finished thread.
+Training naive bayes on file 694/940
+Finished thread.
+Training naive bayes on file 695/940
+Finished thread.
+Training naive bayes on file 696/940
+Finished thread.
+Training naive bayes on file 697/940
+Finished thread.
+Training naive bayes on file 698/940
+Finished thread.
+Training naive bayes on file 699/940
+Finished thread.
+Training naive bayes on file 700/940
+Finished thread.
+Training naive bayes on file 701/940
+Finished thread.
+Training naive bayes on file 702/940
+Finished thread.
+Training naive bayes on file 703/940
+Finished thread.
+Training naive bayes on file 704/940
+Finished thread.
+Training naive bayes on file 705/940
+Finished thread.
+Training naive bayes on file 706/940
+Finished thread.
+Training naive bayes on file 707/940
+Finished thread.
+Training naive bayes on file 708/940
+Finished thread.
+Training naive bayes on file 709/940
+Finished thread.
+Training naive bayes on file 710/940
+Finished thread.
+Training naive bayes on file 711/940
+Finished thread.
+Training naive bayes on file 712/940
+Finished thread.
+Training naive bayes on file 713/940
+Finished thread.
+Training naive bayes on file 714/940
+Finished thread.
+Training naive bayes on file 715/940
+Finished thread.
+Training naive bayes on file 716/940
+Finished thread.
+Training naive bayes on file 717/940
+Finished thread.
+Training naive bayes on file 718/940
+Finished thread.
+Training naive bayes on file 719/940
+Finished thread.
+Training naive bayes on file 720/940
+Finished thread.
+Training naive bayes on file 721/940
+Finished thread.
+Training naive bayes on file 722/940
+Finished thread.
+Training naive bayes on file 723/940
+Finished thread.
+Training naive bayes on file 724/940
+Finished thread.
+Training naive bayes on file 725/940
+Finished thread.
+Training naive bayes on file 726/940
+Finished thread.
+Training naive bayes on file 727/940
+Finished thread.
+Training naive bayes on file 728/940
+Finished thread.
+Training naive bayes on file 729/940
+Finished thread.
+Training naive bayes on file 730/940
+Finished thread.
+Training naive bayes on file 731/940
+Finished thread.
+Training naive bayes on file 732/940
+Finished thread.
+Training naive bayes on file 733/940
+Finished thread.
+Training naive bayes on file 734/940
+Finished thread.
+Training naive bayes on file 735/940
+Finished thread.
+Training naive bayes on file 736/940
+Finished thread.
+Training naive bayes on file 737/940
+Finished thread.
+Training naive bayes on file 738/940
+Finished thread.
+Training naive bayes on file 739/940
+Finished thread.
+Training naive bayes on file 740/940
+Finished thread.
+Training naive bayes on file 741/940
+Finished thread.
+Training naive bayes on file 742/940
+Finished thread.
+Training naive bayes on file 743/940
+Finished thread.
+Training naive bayes on file 744/940
+Finished thread.
+Training naive bayes on file 745/940
+Finished thread.
+Training naive bayes on file 746/940
+Finished thread.
+Training naive bayes on file 747/940
+Finished thread.
+Training naive bayes on file 748/940
+Finished thread.
+Training naive bayes on file 749/940
+Finished thread.
+Training naive bayes on file 750/940
+Finished thread.
+Training naive bayes on file 751/940
+Finished thread.
+Training naive bayes on file 752/940
+Finished thread.
+Training naive bayes on file 753/940
+Finished thread.
+Training naive bayes on file 754/940
+Finished thread.
+Training naive bayes on file 755/940
+Finished thread.
+Training naive bayes on file 756/940
+Finished thread.
+Training naive bayes on file 757/940
+Finished thread.
+Training naive bayes on file 758/940
+Finished thread.
+Training naive bayes on file 759/940
+Finished thread.
+Training naive bayes on file 760/940
+Finished thread.
+Training naive bayes on file 761/940
+Finished thread.
+Training naive bayes on file 762/940
+Finished thread.
+Training naive bayes on file 763/940
+Finished thread.
+Training naive bayes on file 764/940
+Finished thread.
+Training naive bayes on file 765/940
+Finished thread.
+Training naive bayes on file 766/940
+Finished thread.
+Training naive bayes on file 767/940
+Finished thread.
+Training naive bayes on file 768/940
+Finished thread.
+Training naive bayes on file 769/940
+Finished thread.
+Training naive bayes on file 770/940
+Finished thread.
+Training naive bayes on file 771/940
+Finished thread.
+Training naive bayes on file 772/940
+Finished thread.
+Training naive bayes on file 773/940
+Finished thread.
+Training naive bayes on file 774/940
+Finished thread.
+Training naive bayes on file 775/940
+Finished thread.
+Training naive bayes on file 776/940
+Finished thread.
+Training naive bayes on file 777/940
+Finished thread.
+Training naive bayes on file 778/940
+Finished thread.
+Training naive bayes on file 779/940
+Finished thread.
+Training naive bayes on file 780/940
+Finished thread.
+Training naive bayes on file 781/940
+Finished thread.
+Training naive bayes on file 782/940
+Finished thread.
+Training naive bayes on file 783/940
+Finished thread.
+Training naive bayes on file 784/940
+Finished thread.
+Training naive bayes on file 785/940
+Finished thread.
+Training naive bayes on file 786/940
+Finished thread.
+Training naive bayes on file 787/940
+Finished thread.
+Training naive bayes on file 788/940
+Finished thread.
+Training naive bayes on file 789/940
+Finished thread.
+Training naive bayes on file 790/940
+Finished thread.
+Training naive bayes on file 791/940
+Finished thread.
+Training naive bayes on file 792/940
+Finished thread.
+Training naive bayes on file 793/940
+Finished thread.
+Training naive bayes on file 794/940
+Finished thread.
+Training naive bayes on file 795/940
+Finished thread.
+Training naive bayes on file 796/940
+Finished thread.
+Training naive bayes on file 797/940
+Finished thread.
+Training naive bayes on file 798/940
+Finished thread.
+Training naive bayes on file 799/940
+Finished thread.
+Training naive bayes on file 800/940
+Finished thread.
+Training naive bayes on file 801/940
+Finished thread.
+Training naive bayes on file 802/940
+Finished thread.
+Training naive bayes on file 803/940
+Finished thread.
+Training naive bayes on file 804/940
+Finished thread.
+Training naive bayes on file 805/940
+Finished thread.
+Training naive bayes on file 806/940
+Finished thread.
+Training naive bayes on file 807/940
+Finished thread.
+Training naive bayes on file 808/940
+Finished thread.
+Training naive bayes on file 809/940
+Finished thread.
+Training naive bayes on file 810/940
+Finished thread.
+Training naive bayes on file 811/940
+Finished thread.
+Training naive bayes on file 812/940
+Finished thread.
+Training naive bayes on file 813/940
+Finished thread.
+Training naive bayes on file 814/940
+Finished thread.
+Training naive bayes on file 815/940
+Finished thread.
+Training naive bayes on file 816/940
+Finished thread.
+Training naive bayes on file 817/940
+Finished thread.
+Training naive bayes on file 818/940
+Finished thread.
+Training naive bayes on file 819/940
+Finished thread.
+Training naive bayes on file 820/940
+Finished thread.
+Training naive bayes on file 821/940
+Finished thread.
+Training naive bayes on file 822/940
+Finished thread.
+Training naive bayes on file 823/940
+Finished thread.
+Training naive bayes on file 824/940
+Finished thread.
+Training naive bayes on file 825/940
+Finished thread.
+Training naive bayes on file 826/940
+Finished thread.
+Training naive bayes on file 827/940
+Finished thread.
+Training naive bayes on file 828/940
+Finished thread.
+Training naive bayes on file 829/940
+Finished thread.
+Training naive bayes on file 830/940
+Finished thread.
+Training naive bayes on file 831/940
+Finished thread.
+Training naive bayes on file 832/940
+Finished thread.
+Training naive bayes on file 833/940
+Finished thread.
+Training naive bayes on file 834/940
+Finished thread.
+Training naive bayes on file 835/940
+Finished thread.
+Training naive bayes on file 836/940
+Finished thread.
+Training naive bayes on file 837/940
+Finished thread.
+Training naive bayes on file 838/940
+Finished thread.
+Training naive bayes on file 839/940
+Finished thread.
+Training naive bayes on file 840/940
+Finished thread.
+Training naive bayes on file 841/940
+Finished thread.
+Training naive bayes on file 842/940
+Finished thread.
+Training naive bayes on file 843/940
+Finished thread.
+Training naive bayes on file 844/940
+Finished thread.
+Training naive bayes on file 845/940
+Finished thread.
+Training naive bayes on file 846/940
+Finished thread.
+Training naive bayes on file 847/940
+Finished thread.
+Training naive bayes on file 848/940
+Finished thread.
+Training naive bayes on file 849/940
+Finished thread.
+Training naive bayes on file 850/940
+Finished thread.
+Training naive bayes on file 851/940
+Finished thread.
+Training naive bayes on file 852/940
+Finished thread.
+Training naive bayes on file 853/940
+Finished thread.
+Training naive bayes on file 854/940
+Finished thread.
+Training naive bayes on file 855/940
+Finished thread.
+Training naive bayes on file 856/940
+Finished thread.
+Training naive bayes on file 857/940
+Finished thread.
+Training naive bayes on file 858/940
+Finished thread.
+Training naive bayes on file 859/940
+Finished thread.
+Training naive bayes on file 860/940
+Finished thread.
+Training naive bayes on file 861/940
+Finished thread.
+Training naive bayes on file 862/940
+Finished thread.
+Training naive bayes on file 863/940
+Finished thread.
+Training naive bayes on file 864/940
+Finished thread.
+Training naive bayes on file 865/940
+Finished thread.
+Training naive bayes on file 866/940
+Finished thread.
+Training naive bayes on file 867/940
+Finished thread.
+Training naive bayes on file 868/940
+Finished thread.
+Training naive bayes on file 869/940
+Finished thread.
+Training naive bayes on file 870/940
+Finished thread.
+Training naive bayes on file 871/940
+Finished thread.
+Training naive bayes on file 872/940
+Finished thread.
+Training naive bayes on file 873/940
+Finished thread.
+Training naive bayes on file 874/940
+Finished thread.
+Training naive bayes on file 875/940
+Finished thread.
+Training naive bayes on file 876/940
+Finished thread.
+Training naive bayes on file 877/940
+Finished thread.
+Training naive bayes on file 878/940
+Finished thread.
+Training naive bayes on file 879/940
+Finished thread.
+Training naive bayes on file 880/940
+Finished thread.
+Training naive bayes on file 881/940
+Finished thread.
+Training naive bayes on file 882/940
+Finished thread.
+Training naive bayes on file 883/940
+Finished thread.
+Training naive bayes on file 884/940
+Finished thread.
+Training naive bayes on file 885/940
+Finished thread.
+Training naive bayes on file 886/940
+Finished thread.
+Training naive bayes on file 887/940
+Finished thread.
+Training naive bayes on file 888/940
+Finished thread.
+Training naive bayes on file 889/940
+Finished thread.
+Training naive bayes on file 890/940
+Finished thread.
+Training naive bayes on file 891/940
+Finished thread.
+Training naive bayes on file 892/940
+Finished thread.
+Training naive bayes on file 893/940
+Finished thread.
+Training naive bayes on file 894/940
+Finished thread.
+Training naive bayes on file 895/940
+Finished thread.
+Training naive bayes on file 896/940
+Finished thread.
+Training naive bayes on file 897/940
+Finished thread.
+Training naive bayes on file 898/940
+Finished thread.
+Training naive bayes on file 899/940
+Finished thread.
+Training naive bayes on file 900/940
+Finished thread.
+Training naive bayes on file 901/940
+Finished thread.
+Training naive bayes on file 902/940
+Finished thread.
+Training naive bayes on file 903/940
+Finished thread.
+Training naive bayes on file 904/940
+Finished thread.
+Training naive bayes on file 905/940
+Finished thread.
+Training naive bayes on file 906/940
+Finished thread.
+Training naive bayes on file 907/940
+Finished thread.
+Training naive bayes on file 908/940
+Finished thread.
+Training naive bayes on file 909/940
+Finished thread.
+Training naive bayes on file 910/940
+Finished thread.
+Training naive bayes on file 911/940
+Finished thread.
+Training naive bayes on file 912/940
+Finished thread.
+Training naive bayes on file 913/940
+Finished thread.
+Training naive bayes on file 914/940
+Finished thread.
+Training naive bayes on file 915/940
+Finished thread.
+Training naive bayes on file 916/940
+Finished thread.
+Training naive bayes on file 917/940
+Finished thread.
+Training naive bayes on file 918/940
+Finished thread.
+Training naive bayes on file 919/940
+Finished thread.
+Training naive bayes on file 920/940
+Finished thread.
+Training naive bayes on file 921/940
+Finished thread.
+Training naive bayes on file 922/940
+Finished thread.
+Training naive bayes on file 923/940
+Finished thread.
+Training naive bayes on file 924/940
+Finished thread.
+Training naive bayes on file 925/940
+Finished thread.
+Training naive bayes on file 926/940
+Finished thread.
+Training naive bayes on file 927/940
+Finished thread.
+Training naive bayes on file 928/940
+Finished thread.
+Training naive bayes on file 929/940
+Finished thread.
+Training naive bayes on file 930/940
+Finished thread.
+Training naive bayes on file 931/940
+Finished thread.
+Training naive bayes on file 932/940
+Finished thread.
+Training naive bayes on file 933/940
+Finished thread.
+Training naive bayes on file 934/940
+Finished thread.
+Training naive bayes on file 935/940
+Finished thread.
+Training naive bayes on file 936/940
+Finished thread.
+Training naive bayes on file 937/940
+Finished thread.
+Training naive bayes on file 938/940
+Finished thread.
+Training naive bayes on file 939/940
+Finished thread.
+Training naive bayes on file 940/940
+Finished thread.
+Finishing the Bayes training...
+Predict 1/91
+Predict 2/91
+Predict 3/91
+Predict 4/91
+Predict 5/91
+Predict 6/91
+Predict 7/91
+Predict 8/91
+Predict 9/91
+Predict 10/91
+Predict 11/91
+Predict 12/91
+Predict 13/91
+Predict 14/91
+Predict 15/91
+Predict 16/91
+Predict 17/91
+Predict 18/91
+Predict 19/91
+Predict 20/91
+Predict 21/91
+Predict 22/91
+Predict 23/91
+Predict 24/91
+Predict 25/91
+Predict 26/91
+Predict 27/91
+Predict 28/91
+Predict 29/91
+Predict 30/91
+Predict 31/91
+Predict 32/91
+Predict 33/91
+Predict 34/91
+Predict 35/91
+Predict 36/91
+Predict 37/91
+Predict 38/91
+Predict 39/91
+Predict 40/91
+Predict 41/91
+Predict 42/91
+Predict 43/91
+Predict 44/91
+Predict 45/91
+Predict 46/91
+Predict 47/91
+Predict 48/91
+Predict 49/91
+Predict 50/91
+Predict 51/91
+Predict 52/91
+Predict 53/91
+Predict 54/91
+Predict 55/91
+Predict 56/91
+Predict 57/91
+Predict 58/91
+Predict 59/91
+Predict 60/91
+Predict 61/91
+Predict 62/91
+Predict 63/91
+Predict 64/91
+Predict 65/91
+Predict 66/91
+Predict 67/91
+Predict 68/91
+Predict 69/91
+Predict 70/91
+Predict 71/91
+Predict 72/91
+Predict 73/91
+Predict 74/91
+Predict 75/91
+Predict 76/91
+Predict 77/91
+Predict 78/91
+Predict 79/91
+Predict 80/91
+Predict 81/91
+Predict 82/91
+Predict 83/91
+Predict 84/91
+Predict 85/91
+Predict 86/91
+Predict 87/91
+Predict 88/91
+Predict 89/91
+Predict 90/91
+Predict 91/91
+[[b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']
+ [b'animal']] [['fiction', 'juvenile', 'life'], ['fiction', 'england'], ['politics', 'united states'], ['fiction', 'juvenile'], ['fiction'], ['fiction', 'history', 'war'], ['periodicals', 'church'], ['fiction', 'animal'], ['other'], ['poetry'], ['mystery'], ['other'], ['history', 'united states', 'war'], ['detective stories', 'fiction', 'juvenile', 'mystery', 'united states'], ['detective stories', 'fiction', 'juvenile', 'mystery'], ['other'], ['detective stories', 'fiction', 'juvenile', 'mystery'], ['art', 'great britain', 'history'], ['other'], ['england', 'travel'], ['other'], ['war'], ['periodicals', 'united states'], ['fiction', 'great britain'], ['juvenile', 'history', 'life', 'social'], ['other'], ['other'], ['fiction', 'love stories'], ['fiction', 'juvenile', 'life', 'travel'], ['life', 'social'], ['translation', 'fiction'], ['other'], ['church', 'social'], ['politics'], ['poetry'], ['fiction'], ['life', 'north america', 'social'], ['drama', 'translation', 'life', 'social'], ['fiction', 'mystery'], ['bible'], ['history'], ['essay', 'translation'], ['biography'], ['other'], ['short stories', 'fairy tales'], ['drama', 'translation'], ['other'], ['other'], ['biography', 'history'], ['other'], ['other'], ['other'], ['life'], ['poetry', 'humor'], ['other'], ['other'], ['drama'], ['fiction', 'life'], ['short stories'], ['fiction'], ['travel'], ['collection', 'essay', 'history', 'music'], ['social'], ['fiction', 'historical fiction', 'juvenile', 'great britain', 'history', 'life'], ['drama'], ['war'], ['juvenile'], ['fiction', 'life'], ['fiction', 'life', 'social', 'united states'], ['other'], ['other'], ['church', 'england'], ['poetry', 'translation'], ['war'], ['social'], ['other'], ['drama', 'history', 'war'], ['other'], ['other'], ['other'], ['music'], ['ethics', 'sex'], ['fiction'], ['travel'], ['history'], ['poetry', 'fiction', 'juvenile', 'children', 'life'], ['united states'], ['drama', 'history', 'war'], ['fiction'], ['fiction', 'juvenile', 'life'], ['animal']]
+TP/#documents: 0.02197802197802198
+Accuracy: 0.9469568892645815 ; Precision: 0.02197802197802198 ; Recall: 0.012195121951219513

@@ -1,0 +1,51 @@
+biography
+collection
+correspondence
+drama
+encyclopedia
+essay
+periodicals
+poetry
+short stories
+translation
+crime
+detective stories
+fairy tales
+fantasy
+fiction
+historical fiction
+humor
+juvenile
+legends
+love stories
+mystery
+romance
+science fiction
+animal
+art
+bible
+children
+christianity
+church
+cooking
+education
+england
+ethics
+folklore
+great britain
+history
+language
+life
+medicine
+music
+north america
+philosophy
+politics
+religion
+science
+sex
+social
+travel
+united states
+war
+western

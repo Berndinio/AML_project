@@ -1,0 +1,27 @@
+Possible labels - KNN: ['other']
+Possible labels: ['other']
+Possible labels - KNN: ['animal', 'art', 'bible', 'biography', 'children', 'christianity', 'church', 'collection', 'cooking', 'correspondence', 'crime', 'detective stories', 'drama', 'education', 'encyclopedia', 'england', 'essay', 'ethics', 'fairy tales', 'fantasy', 'fiction', 'folklore', 'great britain', 'historical fiction', 'history', 'humor', 'juvenile', 'language', 'legends', 'life', 'love stories', 'medicine', 'music', 'mystery', 'north america', 'other', 'periodicals', 'philosophy', 'poetry', 'politics', 'religion', 'romance', 'science', 'science fiction', 'sex', 'short stories', 'social', 'translation', 'travel', 'united states', 'war', 'western']
+Possible labels - KNN: ['animal', 'art', 'bible', 'biography', 'children', 'christianity', 'church', 'collection', 'cooking', 'correspondence', 'crime', 'detective stories', 'drama', 'education', 'encyclopedia', 'england', 'essay', 'ethics', 'fairy tales', 'fantasy', 'fiction', 'folklore', 'great britain', 'historical fiction', 'history', 'humor', 'juvenile', 'language', 'legends', 'life', 'love stories', 'medicine', 'music', 'mystery', 'north america', 'other', 'periodicals', 'philosophy', 'poetry', 'politics', 'religion', 'romance', 'science', 'science fiction', 'sex', 'short stories', 'social', 'translation', 'travel', 'united states', 'war', 'western']
+Training DBSCAN...
+Possible labels - KNN: ['animal', 'art', 'bible', 'biography', 'children', 'christianity', 'church', 'collection', 'cooking', 'correspondence', 'crime', 'detective stories', 'drama', 'education', 'encyclopedia', 'england', 'essay', 'ethics', 'fairy tales', 'fantasy', 'fiction', 'folklore', 'great britain', 'historical fiction', 'history', 'humor', 'juvenile', 'language', 'legends', 'life', 'love stories', 'medicine', 'music', 'mystery', 'north america', 'other', 'periodicals', 'philosophy', 'poetry', 'politics', 'religion', 'romance', 'science', 'science fiction', 'sex', 'short stories', 'social', 'translation', 'travel', 'united states', 'war', 'western']
+[b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'language' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'language' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'social'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'biography' b'biography' b'biography' b'biography'
+ b'biography' b'united states' b'biography' b'biography' b'biography'
+ b'biography'] [['fiction', 'juvenile', 'life'], ['fiction', 'england'], ['politics', 'united states'], ['fiction', 'juvenile'], ['fiction'], ['fiction', 'history', 'war'], ['periodicals', 'church'], ['fiction', 'animal'], ['other'], ['poetry'], ['mystery'], ['other'], ['history', 'united states', 'war'], ['detective stories', 'fiction', 'juvenile', 'mystery', 'united states'], ['detective stories', 'fiction', 'juvenile', 'mystery'], ['other'], ['detective stories', 'fiction', 'juvenile', 'mystery'], ['art', 'great britain', 'history'], ['other'], ['england', 'travel'], ['other'], ['war'], ['periodicals', 'united states'], ['fiction', 'great britain'], ['juvenile', 'history', 'life', 'social'], ['other'], ['other'], ['fiction', 'love stories'], ['fiction', 'juvenile', 'life', 'travel'], ['life', 'social'], ['translation', 'fiction'], ['other'], ['church', 'social'], ['politics'], ['poetry'], ['fiction'], ['life', 'north america', 'social'], ['drama', 'translation', 'life', 'social'], ['fiction', 'mystery'], ['bible'], ['history'], ['essay', 'translation'], ['biography'], ['other'], ['short stories', 'fairy tales'], ['drama', 'translation'], ['other'], ['other'], ['biography', 'history'], ['other'], ['other'], ['other'], ['life'], ['poetry', 'humor'], ['other'], ['other'], ['drama'], ['fiction', 'life'], ['short stories'], ['fiction'], ['travel'], ['collection', 'essay', 'history', 'music'], ['social'], ['fiction', 'historical fiction', 'juvenile', 'great britain', 'history', 'life'], ['drama'], ['war'], ['juvenile'], ['fiction', 'life'], ['fiction', 'life', 'social', 'united states'], ['other'], ['other'], ['church', 'england'], ['poetry', 'translation'], ['war'], ['social'], ['other'], ['drama', 'history', 'war'], ['other'], ['other'], ['other'], ['music'], ['ethics', 'sex'], ['fiction'], ['travel'], ['history'], ['poetry', 'fiction', 'juvenile', 'children', 'life'], ['united states'], ['drama', 'history', 'war'], ['fiction'], ['fiction', 'juvenile', 'life'], ['animal']]
+TP/#documents: 0.04395604395604396
+Accuracy: 0.9478021978021978 ; Precision: 0.04395604395604396 ; Recall: 0.024390243902439025
